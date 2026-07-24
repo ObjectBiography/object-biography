@@ -1,0 +1,22 @@
+---
+layout: base.njk
+eleventyExcludeFromCollections: true
+pagination:
+  data: collections.tagList
+  size: 1
+  alias: tag
+permalink: "/tags/{{ tag.slug }}/"
+title: "{{ tag.name }}"
+eleventyComputed:
+  description: "Objects and essays tagged {{ tag.name }}."
+---
+<a class="back-link" href="/tags/">&larr; All Tags</a>
+<h1>{{ tag.name }}</h1>
+<div class="gallery-grid">
+  {% for item in tag.items | reverse %}
+    <a class="gallery-item" href="{{ item.url }}">
+      <img src="{{ item.data.thumbnail }}" alt="{{ item.data.title }}" loading="lazy">
+      <span>{{ item.data.title }}</span>
+    </a>
+  {% endfor %}
+</div>

@@ -1,0 +1,49 @@
+---
+layout: base.njk
+title: Home
+description: A collection of militaria and the stories behind them — bring-back items, GWOT-era gear, and the veterans' accounts behind each object.
+eleventyExcludeFromCollections: true
+---
+<section class="hero">
+  <h1 class="visually-hidden">Object Biography</h1>
+  <p class="tagline">A collection of objects and the stories behind them.</p>
+  <blockquote class="hero-quote">
+    <p>&ldquo;Biographies of things can make salient what might otherwise remain obscure.&rdquo;</p>
+    <cite>&mdash; Igor Kopytoff, <em>The Cultural Biography of Things</em> (1986)</cite>
+  </blockquote>
+</section>
+
+<section class="preview-section">
+  <div class="preview-header">
+    <a href="/objects/">View all &rarr;</a>
+  </div>
+  <div class="gallery-grid">
+    {% for item in collections.objects | reverse %}
+      {% if loop.index <= 9 %}
+      <a class="gallery-item" href="{{ item.url }}">
+        <img src="{{ item.data.thumbnail }}" alt="{{ item.data.title }}" loading="lazy">
+        <span>{{ item.data.title }}</span>
+      </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+{% if site.showEssays %}
+<section class="preview-section">
+  <div class="preview-header">
+    <h2>Essays</h2>
+    <a href="/essays/">View all &rarr;</a>
+  </div>
+  <div class="gallery-grid">
+    {% for item in collections.essays | reverse %}
+      {% if loop.index <= 4 %}
+      <a class="gallery-item" href="{{ item.url }}">
+        <img src="{{ item.data.thumbnail }}" alt="{{ item.data.title }}" loading="lazy">
+        <span>{{ item.data.title }}</span>
+      </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

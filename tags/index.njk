@@ -1,0 +1,12 @@
+---
+layout: base.njk
+title: Tags
+description: Browse all objects and essays by tag.
+eleventyExcludeFromCollections: true
+---
+<h1>Tags</h1>
+<div class="tag-list">
+  {% for tag in collections.tagList %}
+    <a class="tag" href="/tags/{{ tag.slug }}/">{{ tag.name }} ({{ tag.items.length }})</a>
+  {% endfor %}
+</div>

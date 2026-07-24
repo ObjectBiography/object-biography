@@ -1,0 +1,8 @@
+{
+  "name": "Object Biography",
+  "url": "https://objectbiography.com",
+  "description": "A collection of militaria and the stories behind them.",
+  "defaultImage": "/images/og-card-v2.png",
+  "showEssays": false,
+  "buttondownUsername": "ObjectBiography"
+}

@@ -1,0 +1,25 @@
+---
+layout: base.njk
+title: Contact
+description: Get in touch about Object Biography — questions, object submissions, or general inquiries.
+eleventyExcludeFromCollections: true
+---
+<article class="detail">
+  <h1>Contact</h1>
+  <div class="detail-text">
+    <p>Do you have a question or something on my <a class="accent-link" href="/looking-for/">want list</a>? <a class="accent-link" href="#" id="email-link">Send me an email</a>.</p>
+  </div>
+</article>
+
+<script>
+  (function () {
+    var link = document.getElementById("email-link");
+    if (!link) return;
+    var user = "monkfinch";
+    var domain = "gmail.com";
+    link.addEventListener("click", function (e) {
+      e.preventDefault();
+      window.location.href = "mailto:" + user + "@" + domain;
+    });
+  })();
+</script>

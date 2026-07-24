@@ -1,0 +1,47 @@
+---
+layout: base.njk
+title: Objects
+description: Browse the full gallery of objects, each with its own story.
+eleventyExcludeFromCollections: true
+---
+{% if collections.objectFilters.length %}
+<div class="filter-bar">
+  <button class="filter-btn is-active" data-filter="all">All</button>
+  {% for pill in collections.objectFilters %}
+    <button class="filter-btn" data-filter="{{ pill.slug }}">{{ pill.name }}</button>
+  {% endfor %}
+</div>
+{% endif %}
+
+<div class="gallery-grid" id="object-grid">
+  {% for item in collections.objects | reverse %}
+    <a class="gallery-item"
+       href="{{ item.url }}"
+       data-categories="{% for cat in item.data.category %}{{ cat | slugify }}{% if not loop.last %} {% endif %}{% endfor %}{% if item.data.tags %} {% for tag in item.data.tags %}{% if tag != "objects" and tag != "essays" %}{{ tag | slugify }}{% if not loop.last %} {% endif %}{% endif %}{% endfor %}{% endif %}">
+      <img src="{{ item.data.thumbnail }}" alt="{{ item.data.title }}" loading="lazy">
+      <span>{{ item.data.title }}</span>
+    </a>
+  {% endfor %}
+</div>
+
+{% if collections.objectFilters.length %}
+<script>
+  (function () {
+    var buttons = document.querySelectorAll(".filter-btn");
+    var items = document.querySelectorAll("#object-grid .gallery-item");
+
+    buttons.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        buttons.forEach(function (b) { b.classList.remove("is-active"); });
+        btn.classList.add("is-active");
+
+        var filter = btn.getAttribute("data-filter");
+        items.forEach(function (item) {
+          var cats = (item.getAttribute("data-categories") || "").split(" ");
+          item.style.display = (filter === "all" || cats.indexOf(filter) !== -1) ? "" : "none";
+        });
+      });
+    });
+  })();
+</script>
+{% endif %}

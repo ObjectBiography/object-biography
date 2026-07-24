@@ -1,0 +1,40 @@
+---
+layout: base.njk
+ogType: article
+---
+<article class="detail">
+  <a class="back-link" href="/essays/">&larr; All Essays</a>
+  <h1>{{ title }}</h1>
+
+  {% if image %}
+  <div class="detail-images">
+    <img src="{{ image }}" alt="{{ title }}" loading="lazy">
+  </div>
+  {% endif %}
+
+  <div class="detail-text">
+    {{ content | safe }}
+  </div>
+
+  {% if tags %}
+  <div class="tag-list">
+    {% for tag in tags %}
+      {% if tag != "objects" and tag != "essays" %}
+      <a class="tag" href="/tags/{{ tag | slugify }}/">{{ tag }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ title }}",
+    "description": "{{ description or site.description }}",
+    "image": "{{ site.url }}{{ image or thumbnail }}",
+    "url": "{{ site.url }}{{ page.url }}",
+    "datePublished": "{{ page.date | isoDate }}"
+  }
+  </script>
+</article>
