@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/svg+xml" href="/images/emblem.svg">
+  <meta name="google-site-verification" content="8BneXmttj6n6lCBHU25LYCGC60GwgCqnnZ7fAo7P9kY" />
+
+  {% set pageTitle = title and title != "Home" %}
+  {% if pageTitle %}
+  <title>{{ title }} | {{ site.name }}</title>
+  {% else %}
+  <title>{{ site.name }} — {{ site.description }}</title>
+  {% endif %}
+
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  {% if not site.showEssays and page.url.startsWith("/essays/") %}
+  <meta name="robots" content="noindex, follow">
+  {% endif %}
+
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:type" content="{{ ogType or 'website' }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ site.url }}{{ thumbnail or image or site.defaultImage }}">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title or site.name }}">
+  <meta name="twitter:description" content="{{ description or site.description }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ thumbnail or image or site.defaultImage }}">
+
+  <link rel="stylesheet" href="/css/style.css">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-420GHQZRQ6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-420GHQZRQ6');
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-title" href="/">
+      <img class="site-emblem" src="/images/emblem.svg" alt="Object Biography emblem" width="32" height="32">
+      Object Biography
+    </a>
+    <nav>
+      {% if site.showEssays %}<a href="/essays/">Essays</a>{% endif %}
+      <a href="/tags/">Tags</a>
+    </nav>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="newsletter-signup">
+      <p class="newsletter-prompt">Get word when I post a new object biography.</p>
+      <form action="https://buttondown.com/api/emails/embed-subscribe/{{ site.buttondownUsername }}" method="post" class="embeddable-buttondown-form newsletter-form">
+        <label for="bd-email" class="visually-hidden">Enter your email</label>
+        <input type="email" name="email" id="bd-email" placeholder="you@example.com" required>
+        <input type="submit" value="Subscribe">
+      </form>
+    </div>
+    <p>&copy; 2026 Object Biography. All rights reserved. | <a href="/what-is-object-biography/">What is Object Biography?</a> | <a href="/contact/">Contact</a> | <a href="/looking-for/">In Search Of</a></p>
+  </footer>
+
+  <script src="/js/lightbox.js" defer></script>
+</body>
+</html>

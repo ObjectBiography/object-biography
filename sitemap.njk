@@ -1,0 +1,53 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>{{ site.url }}/</loc>
+  </url>
+  <url>
+    <loc>{{ site.url }}/objects/</loc>
+  </url>
+  {% if site.showEssays %}
+  <url>
+    <loc>{{ site.url }}/essays/</loc>
+  </url>
+  {% endif %}
+  <url>
+    <loc>{{ site.url }}/contact/</loc>
+  </url>
+  <url>
+    <loc>{{ site.url }}/looking-for/</loc>
+  </url>
+  <url>
+    <loc>{{ site.url }}/what-is-object-biography/</loc>
+  </url>
+  <url>
+    <loc>{{ site.url }}/tags/</loc>
+  </url>
+{%- for page in collections.all %}
+  {%- if site.showEssays or not page.url.startsWith("/essays/") %}
+  <url>
+    <loc>{{ site.url }}{{ page.url }}</loc>
+    <lastmod>{{ page.date | isoDate }}</lastmod>
+    {%- for img in page.data.images %}
+    <image:image>
+      <image:loc>{{ site.url }}{{ img.src }}</image:loc>
+      <image:caption>{{ img.caption or img.alt }}</image:caption>
+    </image:image>
+    {%- endfor %}
+  </url>
+  {%- endif %}
+{%- endfor %}
+{%- for cat in collections.objectCategories %}
+  <url>
+    <loc>{{ site.url }}/objects/{{ cat.slug }}/</loc>
+  </url>
+{%- endfor %}
+{%- for tag in collections.tagList %}
+  <url>
+    <loc>{{ site.url }}/tags/{{ tag.slug }}/</loc>
+  </url>
+{%- endfor %}
+</urlset>

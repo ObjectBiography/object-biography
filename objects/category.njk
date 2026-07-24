@@ -1,0 +1,22 @@
+---
+layout: base.njk
+eleventyExcludeFromCollections: true
+pagination:
+  data: collections.objectCategories
+  size: 1
+  alias: cat
+permalink: "/objects/{{ cat.slug }}/"
+title: "{{ cat.name }}"
+eleventyComputed:
+  description: "Objects in the {{ cat.name }} category."
+---
+<a class="back-link" href="/objects/">&larr; All Objects</a>
+<h1>{{ cat.name }}</h1>
+<div class="gallery-grid">
+  {% for item in cat.items | reverse %}
+    <a class="gallery-item" href="{{ item.url }}">
+      <img src="{{ item.data.thumbnail }}" alt="{{ item.data.title }}" loading="lazy">
+      <span>{{ item.data.title }}</span>
+    </a>
+  {% endfor %}
+</div>

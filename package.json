@@ -1,0 +1,12 @@
+{
+  "name": "object-biography",
+  "version": "1.0.0",
+  "description": "Static site for object and essay galleries",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

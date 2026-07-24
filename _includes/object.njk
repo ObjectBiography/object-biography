@@ -1,0 +1,61 @@
+---
+layout: base.njk
+ogType: article
+---
+<article class="detail">
+  <a class="back-link" href="/objects/">&larr; All Objects</a>
+  <h1>{{ title }}</h1>
+
+  <div class="detail-images">
+    {% for img in images %}
+      <img src="{{ img.src }}" alt="{{ img.alt }}" data-caption="{{ img.caption or img.alt }}" loading="lazy">
+    {% endfor %}
+  </div>
+
+  {% if subtitle %}
+  <p class="detail-subtitle">{{ subtitle }}</p>
+  {% endif %}
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "{{ title }}",
+    "description": "{{ description or site.description }}",
+    "image": [{% for img in images %}"{{ site.url }}{{ img.src }}"{% if not loop.last %}, {% endif %}{% endfor %}],
+    "url": "{{ site.url }}{{ page.url }}",
+    "datePublished": "{{ page.date | isoDate }}"
+  }
+  </script>
+
+  <div class="detail-text">
+    {{ content | safe }}
+  </div>
+
+  {% set related = collections.objects | relatedObjects(tags, category, page.url, 3) %}
+  {% if related.length %}
+  <section class="preview-section related-objects">
+    <div class="preview-header">
+      <h2>Related Objects</h2>
+    </div>
+    <div class="gallery-grid">
+      {% for item in related %}
+      <a class="gallery-item" href="{{ item.url }}">
+        <img src="{{ item.data.thumbnail }}" alt="{{ item.data.title }}" loading="lazy">
+        <span>{{ item.data.title }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if tags %}
+  <div class="tag-list">
+    {% for tag in tags %}
+      {% if tag != "objects" and tag != "essays" %}
+      <a class="tag" href="/tags/{{ tag | slugify }}/">{{ tag }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+</article>
