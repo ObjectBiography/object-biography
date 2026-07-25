@@ -30,8 +30,8 @@ images:
     caption: 509th Woodland Helmet Cover, from a Prior Enlistment
     alt: Woodland helmet cover associated with the 509th, worn prior to Special Forces selection.
   - src: /images/sf-oda-7113-group-patrol-cap.jpg
-    caption: UCP Patrol Cap, Exterior
-    alt: Exterior of the UCP patrol cap, showing NCO rank tabs, redacted name tape, and a cut-down panel marker sewn in as a pocket.
+    caption: UCP Patrol Cap, Interior
+    alt: Interior of the UCP patrol cap, showing NCO rank tabs, redacted name tape, and a cut-down panel marker sewn in as a pocket.
   - src: /images/sf-oda-7113-group-boonie-hat.jpg
     caption: UCP Boonie Hat, Exterior
     alt: Exterior of the UCP boonie hat, showing an NCO chevron patch and redacted name tape.
