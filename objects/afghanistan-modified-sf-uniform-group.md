@@ -30,11 +30,11 @@ images:
     caption: 509th Woodland Helmet Cover, from a Prior Enlistment
     alt: Woodland helmet cover associated with the 509th, worn prior to Special Forces selection.
   - src: /images/sf-oda-7113-group-patrol-cap.jpg
-    caption: UCP Patrol Cap, Interior
-    alt: Interior of the UCP patrol cap, showing NCO rank tabs, redacted name tape, and a cut-down panel marker sewn in as a pocket.
+    caption: UCP Patrol Cap, Exterior
+    alt: Exterior of the UCP patrol cap, showing NCO rank tabs, redacted name tape, and a cut-down panel marker sewn in as a pocket.
   - src: /images/sf-oda-7113-group-boonie-hat.jpg
-    caption: UCP Boonie Hat, Interior
-    alt: Interior of the UCP boonie hat, showing an NCO chevron patch and redacted name tape.
+    caption: UCP Boonie Hat, Exterior
+    alt: Exterior of the UCP boonie hat, showing an NCO chevron patch and redacted name tape.
   - src: /images/sf-oda-7113-group-panel-marker.jpg
     caption: Cut-Down Panel Marker, Sewn as a Pocket
     alt: Close-up of the cut-down VS-17 panel marker fabric sewn into the crown as a pocket.
@@ -82,7 +82,7 @@ The group surfaced near Eglin Air Force Base, home to 7th Special Forces Group. 
 * Tailormade ankle pockets with hook-and-loop closure, one on each leg
 
 ### Helmet Cover
-* Woodland pattern, associated with the 509th
+* Woodland pattern helmet cover with 509th PIR patches
 * Worn during an airborne enlistment prior to Special Forces selection
 
 ### UCP Boonie Hat & Patrol Cap
