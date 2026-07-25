@@ -3,17 +3,17 @@ title: DEVGRU (Naval Special Warfare Development Group) DCU Top
 thumbnail: /images/dcu-elvis-collar-1997-600x600.jpg
 images:
   - src: /images/dcu-elvis-collar-1997-1200x1200.jpg
-    caption: DCU Top, Laid Flat
+    caption: Navy SEAL DEVGRU DCU
     alt: Six-color Desert Camouflage Uniform top laid flat, name tape covered above the left breast pocket.
   - src: /images/dcu-elvis-collar-1997-trident-patch.jpg
-    caption: Naval Special Warfare Trident Patch, Detail
-    alt: Close-up of the embroidered Naval Special Warfare Trident patch above a U.S. NAVY branch tape on the right breast pocket.
-  - src: /images/dcu-elvis-collar-1997-contract-tag.jpg
     caption: "Interior Label: 1997 Contract Number"
     alt: Interior care label showing the garment nomenclature and the 1997 defense contract number SP0100-97-D-C811.
+  - src: /images/dcu-elvis-collar-1997-contract-tag.jpg
+    caption: Navy SEAL Trident, Tape, and Collar Rank
+    alt: Naval Special Warfare Trident patch and U.S. NAVY branch tape on the right breast pocket, with a collar rank device visible at the collar point.
   - src: /images/dcu-elvis-collar-1997-collar-detail.jpg
-    caption: The "Elvis Collar," Detail
-    alt: Close-up of the wide, open point collar — the "Elvis collar" cut of early production DCU tops — with a Naval Special Warfare device pin, Trident patch, and U.S. NAVY branch tape.
+    caption: Navy SEAL Trident Detail
+    alt: Closer detail of the embroidered Naval Special Warfare Trident patch and U.S. NAVY branch tape.
 date: 2026-07-24
 category:
   - GWOT
