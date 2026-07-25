@@ -2,3 +2,4 @@ node_modules/
 _site/
 _site_old_*/
 .DS_Store
+images/_originals/
