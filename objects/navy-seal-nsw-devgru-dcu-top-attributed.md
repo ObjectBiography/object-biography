@@ -23,7 +23,7 @@ tags:
   - DEVGRU
   - Uniform
   - Camouflage
-  - Attributed Provenance
+  - GWOT
 description: A six-color DCU top with a 1997 contract date, attributed to a DEVGRU (Naval Special Warfare Development Group) operator who would go on to lead the squadron that killed Osama bin Laden.
 ---
 
