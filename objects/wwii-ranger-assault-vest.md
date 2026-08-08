@@ -1,6 +1,5 @@
 ---
 title: WWII Ranger Assault Vest
-subtitle: Harian, 1944
 thumbnail: /images/wwii-ranger-assault-vest-600x600.jpg
 images:
   - src: /images/wwii-ranger-assault-vest-front-view.jpg
@@ -19,8 +18,8 @@ images:
     caption: Chest strap and buckle junction where the vest's cross straps meet at the front grommets.
     alt: WWII assault vest chest strap buckle junction detail
   - src: /images/wwii-ranger-assault-vest-grommet-strap-detail.jpg
-    caption: Solid brass waist grommets and adjoining webbing strap edge, showing light, evenly lacquered oxidation consistent with a factory rust-retardant treatment.
-    alt: WWII assault vest brass waist grommets webbing strap edge oxidation detail
+    caption: Solid brass waist grommets and adjoining webbing strap edge, showing light, evenly lacquered oxidation consistent with a factory rust-retardant treatment. Tracer yarn is visible woven through the canvas.
+    alt: WWII assault vest brass waist grommets webbing strap edge oxidation tracer yarn detail
 date: 2026-08-08
 category:
   - World War II
@@ -28,16 +27,16 @@ category:
 tags:
   - WWII
   - Ranger
-description: An apparently unissued 1944 U.S. Army assault vest made by the Harian Stitching Company, one of roughly 14,000 produced for the Normandy invasion and among the rarest surviving pieces of D-Day militaria.
+description: An apparently unissued 1944 U.S. Army assault vest made by the Harian Stitching Company, produced for the Normandy invasion.
 ---
 
 ## Description
 
-A U.S. Army assault vest, size Medium, manufactured by the Harian Stitching Company and dated 1944. It is heavy field-green (OD No. 3, "khaki") cotton canvas with OD No. 7 trim and waist banding, tracer yarn woven through several panels (a mill practice common through the mid-20th century before fading out of use), and large exterior pockets closed with canvas tabs and metal-tipped webbing straps. "MEDIUM" is faintly stenciled inside the body, and "HARIAN 1944" is stamped boldly beneath the rear pack flap. The only wear is light, evenly lacquered oxidation on the brass waist grommets; otherwise the vest presents as unissued.
+A U.S. Army assault vest, size Medium, manufactured by the Harian Stitching Company and dated 1944. It is heavy field-green (OD No. 3, "khaki") cotton canvas with OD No. 7 trim and waist banding, and tracer yarn woven through several panels (a mill practice common through the mid-20th century before fading out of use). "MEDIUM" is faintly stenciled inside the body, and "HARIAN 1944" is stamped boldly beneath the rear pack flap. The only wear is light, unevenly lacquered oxidation on the brass waist grommets; otherwise the vest presents as unissued.
 
 ## Origin and Manufacture
 
-This vest belongs to a small family of assault vests rushed into production in early 1944 for the Normandy invasion, developed after the Army evaluated British Commando-style vests in late 1943. Contractors included J.A. Shoe, Tweedie, and Harian, working in OD No. 3 and OD No. 7 canvas. Only about 14,000 were made in total, making Harian-marked examples a minority within an already small run.
+This vest belongs to a small family of assault vests rushed into production in early 1944 for the Normandy invasion, developed after the Army evaluated British Commando-style vests in late 1943. Contractors included J.A. Shoe, Tweedie, and Harian, working in OD No. 3 and OD No. 7 canvas. Estimates put total production at around 14,000 but I was not able to confirm this number.
 
 ## Use and Service Record
 
@@ -49,4 +48,4 @@ This example shows none of that hard use, its unissued condition, faint stencil,
 
 ## Significance
 
-As a dated, contractor-marked, apparently unissued example of one of the rarest U.S. combat garments of WWII, this vest captures both the rushed effort to equip troops for Normandy and how little of that equipment survived the invasion itself.
+As a dated, contractor-marked, apparently unissued example, this vest captures both the rushed effort to equip troops for Normandy and how little of that equipment survived the invasion itself.
