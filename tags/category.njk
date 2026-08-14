@@ -6,8 +6,8 @@ pagination:
   size: 1
   alias: tag
 permalink: "/tags/{{ tag.slug }}/"
-title: "{{ tag.name }}"
 eleventyComputed:
+  title: "{{ tag.name }}"
   description: "Objects and essays tagged {{ tag.name }}."
 ---
 <a class="back-link" href="/tags/">&larr; All Tags</a>
