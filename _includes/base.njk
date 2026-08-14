@@ -67,6 +67,7 @@
       <form action="https://buttondown.com/api/emails/embed-subscribe/{{ site.buttondownUsername }}" method="post" class="embeddable-buttondown-form newsletter-form">
         <label for="bd-email" class="visually-hidden">Enter your email</label>
         <input type="email" name="email" id="bd-email" placeholder="you@example.com" required>
+        <input type="hidden" value="1" name="embed">
         <input type="submit" value="Subscribe">
       </form>
     </div>
