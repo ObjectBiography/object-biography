@@ -20,4 +20,4 @@ eleventyComputed:
     </a>
   {% endfor %}
 </div>
-<p class="grid-count">{{ cat.items.length }} object{% if cat.items.length != 1 %}s{% endif %} in {{ cat.name }} — that's all of them</p>
+<p class="grid-end"><span aria-hidden="true">&#10003;</span><span class="visually-hidden">{{ cat.items.length }} object{% if cat.items.length != 1 %}s{% endif %} in {{ cat.name }} — that's all of them</span></p>

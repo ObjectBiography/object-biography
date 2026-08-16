@@ -23,24 +23,13 @@ eleventyExcludeFromCollections: true
     </a>
   {% endfor %}
 </div>
-<p class="grid-count" id="grid-count">{{ collections.objects.length }} object{% if collections.objects.length != 1 %}s{% endif %} — that's all of them</p>
+<p class="grid-end"><span aria-hidden="true">&#10003;</span><span class="visually-hidden">{{ collections.objects.length }} object{% if collections.objects.length != 1 %}s{% endif %} — that's all of them</span></p>
 
 {% if collections.objectFilters.length %}
 <script>
   (function () {
     var buttons = document.querySelectorAll(".filter-btn");
     var items = document.querySelectorAll("#object-grid .gallery-item");
-    var count = document.getElementById("grid-count");
-    var total = items.length;
-
-    function updateCount(filter, shown) {
-      if (!count) return;
-      if (filter === "all") {
-        count.textContent = total + " object" + (total !== 1 ? "s" : "") + " — that's all of them";
-      } else {
-        count.textContent = "Showing " + shown + " of " + total + " objects";
-      }
-    }
 
     buttons.forEach(function (btn) {
       btn.addEventListener("click", function () {
@@ -48,14 +37,10 @@ eleventyExcludeFromCollections: true
         btn.classList.add("is-active");
 
         var filter = btn.getAttribute("data-filter");
-        var shown = 0;
         items.forEach(function (item) {
           var cats = (item.getAttribute("data-categories") || "").split(" ");
-          var matches = filter === "all" || cats.indexOf(filter) !== -1;
-          item.style.display = matches ? "" : "none";
-          if (matches) shown++;
+          item.style.display = (filter === "all" || cats.indexOf(filter) !== -1) ? "" : "none";
         });
-        updateCount(filter, shown);
       });
     });
   })();
