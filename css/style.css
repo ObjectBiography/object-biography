@@ -110,14 +110,26 @@ main {
   color: #222;
 }
 
-.back-link { display: inline-block; margin-bottom: 1rem; font-size: 0.9rem; }
-
-.grid-end {
-  text-align: center;
-  color: #bbb;
-  font-size: 1.1rem;
-  margin: 2rem 0 0;
+.gallery-more-box {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px dashed #ccc;
+  border-radius: 4px;
+  background: #f2f2f0;
+  color: #999;
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+  transition: opacity 0.15s ease, border-color 0.15s ease;
 }
+
+.gallery-more:hover .gallery-more-box { opacity: 0.8; border-color: #999; }
+
+.gallery-more span:last-child { color: #666; }
+
+.back-link { display: inline-block; margin-bottom: 1rem; font-size: 0.9rem; }
 
 .filter-bar {
   display: flex;
