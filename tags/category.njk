@@ -20,3 +20,4 @@ eleventyComputed:
     </a>
   {% endfor %}
 </div>
+<p class="grid-count">{{ tag.items.length }} item{% if tag.items.length != 1 %}s{% endif %} tagged {{ tag.name }} — that's all of them</p>

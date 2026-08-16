@@ -20,3 +20,4 @@ eleventyComputed:
     </a>
   {% endfor %}
 </div>
+<p class="grid-count">{{ cat.items.length }} object{% if cat.items.length != 1 %}s{% endif %} in {{ cat.name }} — that's all of them</p>
