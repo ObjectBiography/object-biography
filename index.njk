@@ -26,13 +26,12 @@ eleventyExcludeFromCollections: true
       </a>
       {% endif %}
     {% endfor %}
-    {% if collections.objects.length > 9 %}
-    <a class="gallery-item gallery-more" href="/objects/page/2/" aria-label="View the next page of objects">
-      <span class="gallery-more-box" aria-hidden="true">&rarr;</span>
-      <span>{{ collections.objects.length - 9 }} more &rarr;</span>
-    </a>
-    {% endif %}
   </div>
+  {% if collections.objects.length > 9 %}
+  <nav class="pager">
+    <a class="pager-btn" href="/objects/page/2/" aria-label="View {{ collections.objects.length - 9 }} more objects">&rarr;</a>
+  </nav>
+  {% endif %}
 </section>
 
 {% if site.showEssays %}
@@ -50,12 +49,11 @@ eleventyExcludeFromCollections: true
       </a>
       {% endif %}
     {% endfor %}
-    {% if collections.essays.length > 4 %}
-    <a class="gallery-item gallery-more" href="/essays/" aria-label="View all {{ collections.essays.length }} essays">
-      <span class="gallery-more-box" aria-hidden="true">&rarr;</span>
-      <span>{{ collections.essays.length - 4 }} more &rarr;</span>
-    </a>
-    {% endif %}
   </div>
+  {% if collections.essays.length > 4 %}
+  <nav class="pager">
+    <a class="pager-btn" href="/essays/" aria-label="View {{ collections.essays.length - 4 }} more essays">&rarr;</a>
+  </nav>
+  {% endif %}
 </section>
 {% endif %}
