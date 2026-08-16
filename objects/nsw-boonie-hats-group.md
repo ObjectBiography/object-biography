@@ -20,6 +20,9 @@ images:
   - src: /images/nsw-boonie-hats-dcu-chinstrap.jpg
     caption: Modified Chin Cord, Detail
     alt: Detail of the three-color desert hat's chin cord, fitted with a loop of black rubber inner tube as a modification.
+  - src: /images/nsw-boonie-hats-dcu-name-mark.jpg
+    caption: The Surname, Faded, Inside the DCU Hat
+    alt: The same handwritten surname found on the other two hats, faded but still legible, written inside the three-color desert hat's crown above the interior label.
   - src: /images/nsw-boonie-hats-aor1-side.jpg
     caption: The AOR1 Digital Desert Hat
     alt: Side view of an AOR1 digital desert camouflage boonie hat on a display form.
