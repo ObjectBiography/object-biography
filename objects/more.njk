@@ -22,10 +22,16 @@ eleventyComputed:
 </div>
 
 <nav class="pager" aria-label="Pagination">
-  <a class="pager-btn" href="{{ pagination.href.previous or '/' }}" aria-label="{% if pagination.href.previous %}Previous page{% else %}Back to home{% endif %}">&larr;</a>
+  <a class="pager-btn" href="{{ pagination.href.previous or '/' }}" aria-label="{% if pagination.href.previous %}Previous page{% else %}Back to home{% endif %}">
+    <svg class="pager-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><line x1="20" y1="12" x2="4" y2="12"></line><polyline points="11 5 4 12 11 19"></polyline></svg>
+  </a>
   {% if pagination.href.next %}
-  <a class="pager-btn" href="{{ pagination.href.next }}" aria-label="Next page">&rarr;</a>
+  <a class="pager-btn" href="{{ pagination.href.next }}" aria-label="Next page">
+    <svg class="pager-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><line x1="4" y1="12" x2="20" y2="12"></line><polyline points="13 5 20 12 13 19"></polyline></svg>
+  </a>
   {% else %}
-  <span class="pager-btn pager-btn-disabled" aria-hidden="true">&rarr;</span>
+  <span class="pager-btn pager-btn-disabled" aria-hidden="true">
+    <svg class="pager-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><line x1="4" y1="12" x2="20" y2="12"></line><polyline points="13 5 20 12 13 19"></polyline></svg>
+  </span>
   {% endif %}
 </nav>
