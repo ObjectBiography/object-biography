@@ -131,6 +131,34 @@ main {
 
 .back-link { display: inline-block; margin-bottom: 1rem; font-size: 0.9rem; }
 
+.pager {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 2.5rem;
+}
+
+.pager-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  border: 1px solid #ccc;
+  border-radius: 999px;
+  font-size: 1.1rem;
+  color: #444;
+  background: #fff;
+}
+
+.pager-btn:hover { border-color: #999; text-decoration: none; }
+
+.pager-btn-disabled {
+  color: #ccc;
+  cursor: default;
+  pointer-events: none;
+}
+
 .filter-bar {
   display: flex;
   flex-wrap: wrap;

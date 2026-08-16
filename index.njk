@@ -27,7 +27,7 @@ eleventyExcludeFromCollections: true
       {% endif %}
     {% endfor %}
     {% if collections.objects.length > 9 %}
-    <a class="gallery-item gallery-more" href="/objects/" aria-label="View all {{ collections.objects.length }} objects">
+    <a class="gallery-item gallery-more" href="/objects/page/2/" aria-label="View the next page of objects">
       <span class="gallery-more-box" aria-hidden="true">&rarr;</span>
       <span>{{ collections.objects.length - 9 }} more &rarr;</span>
     </a>

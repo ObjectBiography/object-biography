@@ -1,0 +1,31 @@
+---
+layout: base.njk
+eleventyExcludeFromCollections: true
+pagination:
+  data: collections.objectsOverflow
+  size: 9
+  alias: pageItems
+permalink: "/objects/page/{{ pagination.pageNumber + 2 }}/"
+eleventyComputed:
+  title: "Objects — Page {{ pagination.pageNumber + 2 }}"
+  description: "More objects from the collection, page {{ pagination.pageNumber + 2 }}."
+---
+<a class="back-link" href="/objects/">&larr; All Objects</a>
+<h1>{{ title }}</h1>
+<div class="gallery-grid">
+  {% for item in pageItems %}
+    <a class="gallery-item" href="{{ item.url }}">
+      <img src="{{ item.data.thumbnail }}" alt="{{ item.data.title }}" loading="lazy">
+      <span>{{ item.data.title }}</span>
+    </a>
+  {% endfor %}
+</div>
+
+<nav class="pager" aria-label="Pagination">
+  <a class="pager-btn" href="{{ pagination.href.previous or '/' }}" aria-label="{% if pagination.href.previous %}Previous page{% else %}Back to home{% endif %}">&larr;</a>
+  {% if pagination.href.next %}
+  <a class="pager-btn" href="{{ pagination.href.next }}" aria-label="Next page">&rarr;</a>
+  {% else %}
+  <span class="pager-btn pager-btn-disabled" aria-hidden="true">&rarr;</span>
+  {% endif %}
+</nav>

@@ -98,6 +98,17 @@ module.exports = function (eleventyConfig) {
     return Object.values(filterMap).sort((a, b) => a.name.localeCompare(b.name));
   });
 
+  // Objects beyond the first 9 (newest first) — the ones the homepage
+  // preview grid doesn't have room for. Paginated by objects/more.njk into
+  // /objects/page/2/, /objects/page/3/, etc., 9 per page, so the homepage's
+  // "N more" arrow always has somewhere real to go, no matter how large the
+  // collection grows. NOTE: the "9" here must match the loop.index <= 9
+  // cutoff in the homepage's index.njk.
+  eleventyConfig.addCollection("objectsOverflow", function (collectionApi) {
+    const newestFirst = collectionApi.getFilteredByTag("objects").reverse();
+    return newestFirst.slice(9);
+  });
+
   // Finds other objects that share at least one tag or category with the
   // current object, ranked by how many they share (ties broken by newest
   // first). Used to render a "Related Objects" section on each object page
