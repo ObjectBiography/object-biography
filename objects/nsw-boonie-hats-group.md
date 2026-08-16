@@ -12,17 +12,14 @@ images:
     caption: The Olive Drab Hot-Weather Hat
     alt: Side view of a solid olive drab ripstop boonie hat on a display form, with adjustable chin cord.
   - src: /images/nsw-boonie-hats-od-label.jpg
-    caption: "Interior Label, with a Faded Trace of the Surname"
-    alt: Interior contract label reading Hat, Sun, Hot Weather, Type II, beside a barely visible ghost of penned lettering on the olive drab fabric.
+    caption: "Interior Label: Hat, Sun, Hot Weather, Type II"
+    alt: Interior contract label reading Hat, Sun, Hot Weather, Type II.
   - src: /images/nsw-boonie-hats-dcu-side.jpg
     caption: The Three-Color Desert (DCU) Hat
     alt: Side view of a three-color desert camouflage boonie hat on a display form, faded from wear.
   - src: /images/nsw-boonie-hats-dcu-chinstrap.jpg
     caption: Modified Chin Cord, Detail
     alt: Detail of the three-color desert hat's chin cord, fitted with a loop of black rubber inner tube as a modification.
-  - src: /images/nsw-boonie-hats-dcu-name-mark.jpg
-    caption: The Surname, Faded, Inside the DCU Hat
-    alt: The same handwritten surname found on the other two hats, faded but still legible, written inside the three-color desert hat's crown above the interior label.
   - src: /images/nsw-boonie-hats-aor1-side.jpg
     caption: The AOR1 Digital Desert Hat
     alt: Side view of an AOR1 digital desert camouflage boonie hat on a display form.
@@ -56,15 +53,17 @@ Three different GWOT boonie hats — one name.
 
 The hats were acquired from a vintage dealer who bought the larger group at a flea market in Huntington Beach, California. Alongside the three hats were the same veteran's field uniforms and several early, domestically produced Blackhawk bags. One bag carried a plastic luggage tag stamped "C.F.B." and "JSOC," printed with both the Joint Special Operations Command and Naval Special Warfare emblems, along with a unique identification number. Unfortunately, the uniforms and bags were sold separately before I could acquire them.
 
-One boonie is solid olive drab ripstop. Its interior label identifies it as a "Hat, Sun, Hot Weather, Type II," but not necessarily an issue piece. The same surname is penned inside the crown, though here it has faded to little more than a ghost.
+One boonie is solid olive drab ripstop. Its interior label identifies it as a "Hat, Sun, Hot Weather, Type II," but not necessarily an issue piece.
 
-The second is three-color desert, or DCU. Its chin cord has been modified with a loop of rubber inner tube. The surname appears here too, faded but still legible.
+The second is three-color desert, or DCU. Its chin cord has been modified with a loop of rubber inner tube.
 
-The third is AOR1, the digital desert camouflage closely associated with Naval Special Warfare. The surname is clearest here, in black marker, and this hat carries the most additional information. Beside the name is a second inscription: "BRAVO / 88." A third reads "NSWC/JSOC." Pinned to the tan nylon foliage band is a corroded miniature gold-toned Navy SEAL Trident.
+The third is AOR1, the digital desert camouflage closely associated with Naval Special Warfare. It also carries the most information.
+
+Inside the crown, a surname is written in black marker. Beside it is a second inscription: "BRAVO / 88." A third reads "NSWC/JSOC." Pinned to the tan nylon foliage band is a corroded miniature gold-toned Navy SEAL Trident.
 
 The combination "NSWC/JSOC" is particularly interesting. NSWC — Naval Special Warfare Center at Coronado — oversees training including BUD/S and SEAL Qualification Training. JSOC, established in 1980, is the joint command responsible for the military's special mission units, including DEVGRU. Written together on a veteran's hat, the two abbreviations potentially read more like a shorthand career history than a single assignment.
 
-The luggage tag on the Blackhawk bag that didn't make it into this collection offers another thread. "C.F.B." is consistent with a first name, middle initial, and the surname penned inside all three hats. It is a small correspondence, and unprovable on its own, but it is the kind of detail that can quietly hold a scattered group together after its pieces have passed into different hands.
+The luggage tag on the Blackhawk bag that didn't make it into this collection offers another thread. "C.F.B." is consistent with a first name, middle initial, and the surname written inside the AOR1 hat. It is a small correspondence, and unprovable on its own, but it is the kind of detail that can quietly hold a scattered group together after its pieces have passed into different hands.
 
 For now, the three hats preserve a name and a possible Naval Special Warfare history.
 
