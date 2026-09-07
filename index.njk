@@ -29,7 +29,8 @@ eleventyExcludeFromCollections: true
   </div>
   {% if collections.objects.length > 9 %}
   <nav class="pager">
-    <a class="pager-btn" href="/objects/page/2/" aria-label="View {{ collections.objects.length - 9 }} more objects">
+    <a class="pager-btn pager-btn-labeled" href="/objects/page/2/" aria-label="View {{ collections.objects.length - 9 }} more objects">
+      <span>More Objects</span>
       <svg class="pager-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><line x1="4" y1="12" x2="20" y2="12"></line><polyline points="13 5 20 12 13 19"></polyline></svg>
     </a>
   </nav>
@@ -54,7 +55,8 @@ eleventyExcludeFromCollections: true
   </div>
   {% if collections.essays.length > 4 %}
   <nav class="pager">
-    <a class="pager-btn" href="/essays/" aria-label="View {{ collections.essays.length - 4 }} more essays">
+    <a class="pager-btn pager-btn-labeled" href="/essays/" aria-label="View {{ collections.essays.length - 4 }} more essays">
+      <span>More Essays</span>
       <svg class="pager-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><line x1="4" y1="12" x2="20" y2="12"></line><polyline points="13 5 20 12 13 19"></polyline></svg>
     </a>
   </nav>
