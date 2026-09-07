@@ -12,16 +12,16 @@ images:
     caption: Stacked chest tabs — a U.S. Air Force pilot's wings badge, a parachutist ("jump") badge, and a name tape reading "HIX."
     alt: USAF pilot wings jump wings HIX name tape flight jacket
   - src: /images/raven-fac-flight-jacket-jim-hix-laos-patch.jpg
-    caption: 'The shoulder patch: hand-embroidered and theater-made, a shield bordered in tan, reading "LAOS," "1,000 MISSIONS," "RAVEN," and "FAC," with a small embroidered elephant in each upper corner and a line of small marks, possibly Lao script, worn past legibility along the lower edge.'
-    alt: Raven FAC Laos 1000 missions hand embroidered theater made shoulder patch with elephants
+    caption: Shadows remain where Hix's rank insignia was sewn before being removed — evidence of his covert "sheep-dipped" status as a Raven. Below it, the hand-embroidered, theater-made "Laos / 1,000 Missions / Raven FAC" shoulder patch.
+    alt: L-2B flight jacket shoulder shadows where officer rank insignia was removed sheep-dipped Raven FAC patch
   - src: /images/raven-fac-flight-jacket-jim-hix-laos-patch-shoulder.jpg
-    caption: The same patch in context on the left shoulder, above the sleeve's zippered pocket.
+    caption: The hand-embroidered, theater-made Raven FAC novelty patch in context on the left shoulder, above the sleeve's zippered pocket. Its heavy wear and abraded lettering reflect extended field use.
     alt: Raven FAC patch on flight jacket shoulder with sleeve pocket
   - src: /images/raven-fac-flight-jacket-jim-hix-interior-lining.jpg
     caption: The right breast, showing a darker, shield-shaped patch of shell fabric where the surrounding nylon faded with age and sun exposure but this outline did not — evidence of an Air Force unit patch that once sat here and was later removed.
     alt: L-2B flight jacket shield shaped shadow removed Air Force unit patch right breast
   - src: /images/raven-fac-flight-jacket-jim-hix-long-tieng-group.jpg
-    caption: "Ravens with Maj. Gen. Vang Pao at Long Tieng, Laos, 1970. Jim Hix is third from right. Source: Craig W. Duehring, The Lair of Raven (2014), reproduced by Special Forces Association Chapter 78; photographer unknown."
+    caption: "Ravens with Maj. Gen. Vang Pao at Long Tieng, Laos, 1970. Jim Hix is fourth from right. Source: Craig W. Duehring, The Lair of Raven (2014), reproduced by Special Forces Association Chapter 78; photographer unknown."
     alt: Ravens with Gen. Vang Pao group photo Long Tieng Laos 1970 Jim Hix
   - src: /images/raven-fac-flight-jacket-jim-hix-cia-bar-bear-cage.jpg
     caption: "Jim Hix (wearing flight jacket) and fellow Ravens at the CIA bar above the Bear Cage, Long Tieng, Laos. Source: Craig W. Duehring, The Lair of Raven; via Special Forces Association Chapter 78. Photographer unknown."
@@ -33,9 +33,7 @@ category:
 tags:
   - Vietnam War
   - Laos
-  - Raven FAC
-  - Air Force
-  - Flight Jacket
+  - Uniform
 description: An Alpha Industries L-2B flying jacket personalized with pilot and parachutist wings, a "Hix" name tape, and a "1,000 Missions / Raven FAC / Laos" shoulder patch — worn by Raven Forward Air Controller James "Butch" Hix during the covert air war in Laos.
 ---
 
@@ -71,7 +69,7 @@ There is also evidence of something that is no longer there.
 
 On the right breast, the sage nylon has faded with age, leaving a distinctly darker shield-shaped area where an Air Force organizational patch once covered the fabric beneath it. Its outline resembles the shield-and-scroll form common to Air Force unit and command insignia of the period, although there is not enough evidence to identify the missing patch. Hix's officer rank insignia was also removed from the shoulders.
 
-Taken together, these alterations are entirely consistent with Hix's transition into the covert Raven program. Raven pilots were "sheep-dipped," their identities as American military officers deliberately obscured while operating in Laos. The removal of Hix's rank and organizational insignia appears to reflect that transformation.
+Taken together, these alterations are entirely consistent with Hix's transition into the covert Raven program.
 
 The jacket cannot tell us precisely when the insignia were removed, but the physical evidence closely corresponds with what is known about his Raven service.
 
@@ -85,7 +83,7 @@ By 1970 Hix was at Long Tieng, the secret mountain base that served as headquart
 
 A period photograph taken in the CIA bar above the Bear Cage also shows Hix wearing an Air Force flight jacket during his Raven service. Although the photograph lacks sufficient detail to establish that it is this particular jacket, its appearance is notably consistent with the surviving L-2B.
 
-On February 9, 1971, Hix was directing air attacks near Ban Na when antiaircraft fire struck the T-28 he was flying. With the aircraft damaged, oil obscuring the windshield and smoke filling the cockpit, Hix bailed out. Christopher Robbins recounts that Hix had left his visor raised; fragments from the departing canopy cut his face during the extraction. He came down wounded in enemy-held territory and was eventually recovered under fire by an Air America helicopter. Fellow Raven John Fuller later identified Hix's lost aircraft as T-28 #600.
+On February 9, 1971, Hix was directing air attacks near Ban Na when antiaircraft fire struck the T-28 he was flying. With the aircraft damaged, oil obscuring the windshield and smoke filling the cockpit, Hix bailed out. Christopher Robbins, author of the 1987 history The Ravens: The Men Who Flew in America's Secret War in Laos, recounts that Hix had left his visor raised; fragments from the departing canopy cut his face during the extraction. He came down wounded in enemy-held territory and was eventually recovered under fire by an Air America helicopter. Fellow Raven John Fuller later identified Hix's lost aircraft as T-28 #600.
 
 Not long afterward, Hix watched Uhls go down and die. Robbins describes Hix responding by directing artillery onto the enemy position responsible, an episode that reveals some of the personal cost hidden behind the Raven program's secrecy.
 
@@ -108,21 +106,3 @@ What caught my attention wasn't simply that it was an original Vietnam-era L-2B.
 I acquired it before it left the United States and began researching the name.
 
 That trail led to James "Butch" Hix, the Ravens, Long Tieng, and America's secret war in Laos.
-
-## What Survives
-
-The manufacturer's label tells us what the jacket was when it left the factory: one of thousands of standardized flying jackets produced for U.S. Air Force personnel.
-
-Everything that makes this one singular came afterward.
-
-The pilot wings. The jump wings. The HIX name tape. The shadow of a missing Air Force patch. The traces left by removed rank insignia. And, most strikingly, the worn, hand-embroidered Raven patch on its sleeve.
-
-There is still more to learn. We do not know what Air Force insignia once occupied the right breast. The "1,000 MISSIONS" inscription should not be read as literal. The hand-embroidered Raven insignia is a theater-made morale patch, part of a broader Vietnam-era tradition of locally produced, unofficial insignia commemorating operational milestones and unit identity.
-
-The jacket itself came surprisingly close to losing that context altogether. In the vintage market, it was valuable because of what it was: an authentic Vietnam-era American flight jacket, worn, patched, and visually distinctive.
-
-The name sewn to its chest made it something more.
-
-HIX was enough to lead back to a particular pilot, and from him to a particular place and a war that was deliberately kept out of view.
-
-The jacket survived with just enough information still attached to tell us where to look.
