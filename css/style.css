@@ -43,6 +43,16 @@ a:hover { text-decoration: underline; }
 
 .site-header nav a { margin-left: 1.5rem; }
 
+.site-header nav a.social-icon {
+  display: inline-flex;
+  align-items: center;
+  color: #222;
+}
+
+.site-header nav a.social-icon:hover { color: var(--accent); }
+
+.site-header nav a.social-icon svg { display: block; }
+
 main {
   max-width: var(--max-width);
   margin: 0 auto;
