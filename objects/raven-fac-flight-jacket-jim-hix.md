@@ -83,7 +83,9 @@ By 1970 Hix was at Long Tieng, the secret mountain base that served as headquart
 
 A period photograph taken in the CIA bar above the Bear Cage also shows Hix wearing an Air Force flight jacket during his Raven service. Although the photograph lacks sufficient detail to establish that it is this particular jacket, its appearance is notably consistent with the surviving L-2B.
 
-On February 9, 1971, Hix was directing air attacks near Ban Na when antiaircraft fire struck the T-28 he was flying. With the aircraft damaged, oil obscuring the windshield and smoke filling the cockpit, Hix bailed out. Christopher Robbins, author of the 1987 history The Ravens: The Men Who Flew in America's Secret War in Laos, recounts that Hix had left his visor raised; fragments from the departing canopy cut his face during the extraction. He came down wounded in enemy-held territory and was eventually recovered under fire by an Air America helicopter. Fellow Raven John Fuller later identified Hix's lost aircraft as T-28 #600.
+On February 9, 1971, Hix was directing air attacks near Ban Na when antiaircraft fire struck the T-28 he was flying. With the aircraft damaged, oil obscuring the windshield and smoke filling the cockpit, Hix bailed out.
+
+He had left his visor raised, and fragments from the departing canopy cut his face during the extraction, according to Christopher Robbins's 1987 history The Ravens: The Men Who Flew in America's Secret War in Laos. He came down wounded in enemy-held territory and was eventually recovered under fire by an Air America helicopter. Fellow Raven John Fuller later identified Hix's lost aircraft as T-28 #600.
 
 Not long afterward, Hix watched Uhls go down and die. Robbins describes Hix responding by directing artillery onto the enemy position responsible, an episode that reveals some of the personal cost hidden behind the Raven program's secrecy.
 
@@ -105,4 +107,4 @@ What caught my attention wasn't simply that it was an original Vietnam-era L-2B.
 
 I acquired it before it left the United States and began researching the name.
 
-That trail led to James "Butch" Hix, the Ravens, Long Tieng, and America's secret war in Laos.
+That trail led to James "Butch" Hix, the Ravens, and Long Tieng, and a war fought without official acknowledgment.
