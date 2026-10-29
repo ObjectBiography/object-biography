@@ -60,7 +60,9 @@ main {
 }
 
 .hero { padding: 2rem 0; border-bottom: 1px solid #ddd; margin-bottom: 2rem; }
-.hero .tagline { font-size: 1.4rem; margin: 0 0 1.5rem; color: #444; }
+.hero .tagline { font-size: 1.4rem; margin: 0; color: #444; }
+
+.page-footnote { margin-top: 3rem; }
 
 .hero-quote {
   margin: 0;
