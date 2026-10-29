@@ -1,5 +1,5 @@
 ---
-title: Special Forces ODA 7113 Combat Shirt Group
+title: ODA 7113 Afghanistan-Tailored Uniform Group
 thumbnail: /images/sf-oda-7113-group-600x600.jpg
 images:
   - src: /images/sf-oda-7113-group-1200x1200.jpg
@@ -69,23 +69,26 @@ The group surfaced near Eglin Air Force Base, home to 7th Special Forces Group. 
 
 ### Combat Top
 * Tailor-made in Afghanistan
-* Melding of an ODA 7113 unit t-shirt and woodland BDU sleeves
-* CJSOTF-A (Afghanistan) patch, hook-and-loop, sleeve
-* JTAC patch, hook-and-loop, opposite sleeve
+* Constructed from an ODA 7113 "Lucky 13" unit t-shirt and woodland BDU sleeves
+* CJSOTF-A (Afghanistan) patch, hook-and-loop attachment
+* JTAC patch, hook-and-loop attachment, opposite sleeve
 
 ### Lucky 13 T-Shirt
-* Polyester ODA t-shirt with made in Tanzania label
+* Polyester ODA 7113 unit t-shirt
+* Made in Tanzania
 
 ### Trousers
 * Modified woodland BDU trousers
-* Crye-inspired, tailormade knee reinforcement pockets
-* Tailormade ankle pockets with hook-and-loop closure, one on each leg
+* Tailor-made, Crye-inspired knee reinforcement pockets
+* Tailor-made ankle pockets with hook-and-loop flap closures
 
 ### Helmet Cover
-* Woodland pattern helmet cover with 509th PIR patches
-* Worn during an airborne enlistment prior to Special Forces selection
+* Woodland camouflage helmet cover with 509th PIR patches
+* Associated with the original owner's earlier airborne service
 
 ### UCP Boonie Hat & Patrol Cap
-* UCP patrol cap: cat's-eye reflective tabs, name tape, and a discolored panel marker sewn as a pocket
+* UCP patrol cap: cat's-eye reflective tabs, name tape, and repurposed panel marker sewn inside the crown as a pocket
 * UCP boonie hat: cat's-eye reflective tabs, name tape, NCO rank, and evidence of a removed panel marker
 
+### Provenance
+* Original ownership and service use confirmed through direct correspondence with the veteran.
