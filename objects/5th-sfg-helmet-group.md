@@ -45,40 +45,35 @@ tags:
   - Special Forces
   - Camouflage
   - Helmet
-description: A high-cut combat helmet worn on deployments to Afghanistan, Iraq, and Syria by a 5th Special Forces Group veteran who retired as a Master Sergeant after twenty-three years, was wounded in action, and awarded the Purple Heart. Grouped with his deployment field shirt, training boots, and a drone-flown flag presented by the 160th SOAR.
+description: A high-cut ACH helmet, MultiCam field shirt, boots, and Predator-flown flag from a 5th Special Forces Group Master Sergeant and Purple Heart recipient.
 ---
-
-The "high-cut" helmet was worn by a soldier who served twenty-three years in the United States Army, the majority of it with 5th Special Forces Group, retiring as a Master Sergeant. His deployments took it to Afghanistan, Iraq, and Syria, where he was wounded in action and awarded the Purple Heart.
-
-Alongside it traveled a Crye Gen 2 field shirt, worn on the same deployments, its fabric faded unevenly by years in the sun. A pair of Oakley boots accompanied the group as well, though their service was closer to home — worn during stateside waterborne training rather than overseas.
-
-With the group came a fourth object, one that didn't start as gear: an American flag, flown in the nose cone of an MQ-1 Predator during a kinetic operation he took part in, later presented to him by the 160th Special Operations Aviation Regiment (Airborne) in recognition of his service.
 
 ## Grouping Details
 
 ### Helmet
-
-* Gentex ACH TC 2001 High-Cut Ballistic Helmet
+* Gentex ACH TC 2001 high-cut ballistic helmet
 * Desert sand finish
-* Ops-Core VAS shroud
-* Ops-Core ARC Rails
+* Ops-Core VAS shroud and ARC rails
 * Ops-Core Head-Loc retention system
 * Team Wendy EPIC Combat Helmet Liner System
 * Personalized hook-and-loop configuration
-* Manufacturer's label (LCEO, LLC / Own The Night) present
+* LCEO, LLC / Own The Night label present
 
 ### Field Shirt
-
-* Crye Precision Gen 2 Field Shirt
-* Multicam camouflage
-* Natural fading from operational wear
+* Crye Precision Gen 2 Field Shirt, MultiCam camouflage
+* Worn during deployments to Afghanistan, Iraq, and Syria
+* Uneven fading consistent with extended operational use
 
 ### Boots
-
 * Oakley LSA Terrain Boots
-* Worn on waterborne operations
+* Worn during stateside waterborne training
 
 ### Flag
-
-* American flag flown in the nose cone of a drone during an operational deployment
+* American flag flown in the nose cone of an MQ-1 Predator during a kinetic operation
 * Presented to the veteran by the 160th Special Operations Aviation Regiment (Airborne) in recognition of his service
+
+### Provenance
+* Acquired directly from a retired U.S. Army Master Sergeant with 23 years of service, primarily with 5th Special Forces Group (Airborne)
+* Veteran served in Afghanistan, Iraq, and Syria
+* Wounded in action and awarded the Purple Heart
+* Original ownership and service use confirmed through direct correspondence with the veteran
