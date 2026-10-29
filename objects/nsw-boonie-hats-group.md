@@ -49,25 +49,29 @@ tags:
   - Headgear
   - Camouflage
   - GWOT
-description: Three GWOT-era boonie hats — olive drab, three-color desert, and AOR1 — pulled from a Huntington Beach flea-market lot whose uniforms and tagged Blackhawk bags sold before they could be acquired, leaving a surname, a unit shorthand, and a corroded SEAL Trident as the only surviving clues.
+description: Three GWOT-era boonie hats bearing the same surname — olive drab, three-color desert, and AOR1 with a SEAL Trident and NSWC/JSOC markings.
 ---
 
-Three different GWOT boonie hats — one name.
+## Grouping Details
 
-The hats were acquired from a vintage dealer who bought the larger group at a flea market in Huntington Beach, California. Alongside the three hats were the same veteran's field uniforms and several early, domestically produced Blackhawk bags. One bag carried a plastic luggage tag stamped "C.F.B." and "JSOC," printed with both the Joint Special Operations Command and Naval Special Warfare emblems, along with a unique identification number. Unfortunately, the uniforms and bags were sold separately before I could acquire them.
+### Olive Drab Boonie Hat
+* Solid olive drab ripstop construction
+* Interior label marked "Hat, Sun, Hot Weather, Type II"
+* Military issue status unconfirmed
 
-One boonie is solid olive drab ripstop. Its interior label identifies it as a "Hat, Sun, Hot Weather, Type II," but not necessarily an issue piece.
+### Three-Color Desert Boonie Hat
+* Three-color desert camouflage (DCU)
+* Chin cord modified with a rubber inner-tube loop
 
-The second is three-color desert, or DCU. Its chin cord has been modified with a loop of rubber inner tube.
+### AOR1 Boonie Hat
+* AOR1 digital desert camouflage associated with Naval Special Warfare
+* Surname handwritten inside crown
+* Additional markings: "BRAVO / 88" and "NSWC/JSOC"
+* Corroded miniature gold-toned Navy SEAL Trident pinned to nylon foliage band
 
-The third is AOR1, the digital desert camouflage closely associated with Naval Special Warfare. It also carries the most information.
-
-Inside the crown, a surname is written in black marker. Beside it is a second inscription: "BRAVO / 88." A third reads "NSWC/JSOC." Pinned to the tan nylon foliage band is a corroded miniature gold-toned Navy SEAL Trident.
-
-The combination "NSWC/JSOC" is particularly interesting. NSWC — Naval Special Warfare Center at Coronado — oversees training including BUD/S and SEAL Qualification Training. JSOC, established in 1980, is the joint command responsible for the military's special mission units, including DEVGRU. Written together on a veteran's hat, the two abbreviations potentially read more like a shorthand career history than a single assignment.
-
-The luggage tag on the Blackhawk bag that didn't make it into this collection offers another thread. "C.F.B." is consistent with a first name, middle initial, and the surname written inside the AOR1 hat. It is a small correspondence, and unprovable on its own, but it is the kind of detail that can quietly hold a scattered group together after its pieces have passed into different hands.
-
-For now, the three hats preserve a name and a possible Naval Special Warfare history.
-
-If you recognize the veteran, the markings, or anything else documented here, please email me. I am particularly interested in firsthand information that might help establish the history of this group.
+### Provenance
+* Three hats bearing the same surname, acquired together from a vintage dealer
+* Originally part of a larger group purchased at a Huntington Beach, California, flea market
+* Associated items included field uniforms and early U.S.-made Blackhawk bags, sold separately
+* One bag carried a luggage tag marked "C.F.B." and "JSOC," with Naval Special Warfare and JSOC emblems and a unique identification number
+* Original ownership, service history, and unit associations remain unconfirmed
