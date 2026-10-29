@@ -48,7 +48,7 @@ tags:
   - Uniform
   - Camouflage
   - Airborne
-description: A combat top tailor-made in Afghanistan from an ODA 7113 t-shirt and woodland BDU sleeves, modified BDU trousers, a JTAC and CJSOTF-A (Afghanistan) patch, a UCP boonie hat and patrol cap, and a 509th helmet cover from an earlier enlistment, confirmed directly by the Special Forces communications sergeant who wore them.
+description: A combat top tailor-made in Afghanistan from an ODA 7113 t-shirt and woodland BDU sleeves, with modified BDU trousers and UCP headgear.
 ---
 
 The combat top at the center of this group is a union of two garments: an ODA 7113 unit t-shirt, printed with "Lucky 13" and a skull gripping a V-42 knife with crossed raft paddles on the back, and the sleeves of a woodland BDU top, grafted on by a tailor during an Afghanistan deployment.
