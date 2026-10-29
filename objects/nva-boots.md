@@ -30,30 +30,25 @@ tags:
   - NVA / VC
   - Bring-Back
   - Vietnam War
-description: A pair of North Vietnamese jungle boots captured during Operation Hastings against the NVA 324B Division near Mutter's Ridge in August 1966, sold in 2006 by the Marine veteran who took them off a wounded soldier.
+description: Chinese-made NVA canvas boots recovered on Mutter's Ridge during Operation Hastings in 1966 and kept for 40 years by the 1/3 Marine who brought them home.
 ---
 
-The boots still carry bloodstains. Small reddish-brown droplets remain scattered across the khaki canvas, dried since a North Vietnamese soldier was shot on a ridge above the Song Ngan Valley in August 1966. They were sold in 2006 by the Marine who brought them home.
+## Object Details
 
-The Marine preserved the story in a string of emails, along with his Combat History–Expeditions–Awards Record and the Western Union telegram his parents received when he was wounded.
+### North Vietnamese Army Boots
+* Chinese-manufactured khaki canvas military boots
+* Recovered from a wounded North Vietnamese soldier on Mutter's Ridge, above the Song Ngan Valley, during Operation Hastings, August 1966, according to the Marine who acquired them
+* Reddish-brown staining described by the veteran as blood
+* Original soil remains embedded in the soles
 
-He served with 1st Battalion, 3rd Marine Regiment, 3rd Marine Division, arriving in Vietnam in July 1966 and committed almost immediately to Operation Hastings, a joint Marine–ARVN offensive into the Demilitarized Zone meant to block the North Vietnamese 324B Division from massing in Quang Tri Province. On the high ground Marines called Mutter's Ridge, above the Song Ngan Valley, he took the boots off a wounded soldier. As he described it:
+### Historical Association
+* Recovered by a U.S. Marine serving with 1st Battalion, 3rd Marine Regiment, 3rd Marine Division
+* Marine participated in Operation Hastings shortly after arriving in Vietnam in July 1966
+* Subsequently wounded during Operation Buffalo on July 7, 1967
+* Awarded the Purple Heart
 
-> "We overran a nva (826rd reg.) base camp on mudders ridge. We took some pows, wounded some, killed some and the rest fled. I got the shoes off of a wounded gook [sic] that was shot in the thigh. We got lots of stuff (rice, papers, maps, weapons, and all kinds of supplies). Most of the captured stuff was sent to intellagence. I had just been in country about a month so I didn't know to hide what I found. That is the reason I just end up with shoes and a belt."
-
-The "826th" regiment he recalled does not match the documented order of battle — the 324B Division fielded the 90th, 803rd, and 812th Regiments during Operation Hastings — though the ridge, the operation, and the division all align with the historical record.
-
-Soil remains packed into the tread.
-
-Over the following year, his Combat History–Expeditions–Awards Record shows a succession of major operations across northern I Corps. On 7 July 1967, near Quang Tri, he was struck by a hostile mortar round while serving as a machine gunner during Operation Buffalo, sustaining a blast concussion and partial hearing loss. A Western Union telegram sent to his mother two days later confirms the event:
-
-> "sustained a loss of hearing from a hostile mortar while engaged in action against hostile forces..."
-
-He was hospitalized for about a week before returning to duty. His awards record lists a Purple Heart, approved that same month by the Commanding General of the 9th Marine Amphibious Brigade.
-
-Not everything he brought home survived the trip. Along with the boots, he had acquired a Walther P-38 pistol and an NVA officer's belt buckle, both confiscated during the unit's rotation through Okinawa.
-
-> "We weren't supposed to keep any semi automatic weapons," he explained.
-
-The provenance trail runs in one direction: from a factory in the People's Republic of China, through the North Vietnamese supply system, to an unnamed soldier on Mutter's Ridge, to a Marine machine gunner during Operation Hastings, to a shoebox for forty years, to an eBay listing in 2006. We can trace the boots to the battlefield. The identity of the man who wore them there remains unknown.
-
+### Provenance
+* Acquired directly from the Marine veteran in 2006
+* Boots retained by the veteran for approximately 40 years
+* Recovery circumstances documented through direct correspondence with the veteran
+* Supporting documentation includes his Combat History–Expeditions–Awards Record and original Western Union casualty notification telegram
