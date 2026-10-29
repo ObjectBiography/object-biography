@@ -68,31 +68,41 @@ tags:
   - Riverine
   - Vietnam War
   - Camouflage
-description: A tigerstripe camouflage uniform traded for a bottle of Jack Daniel's, a captured Viet Cong flag, a mother's parting gift of a Buck knife, and a Task Force 116 plaque, tracing a Navy PBR boat captain's 1966–67 tour in the Mekong Delta.
+description: A tigerstripe uniform, captured Viet Cong flag, and Buck knife acquired directly from Harry Weber, a Task Force 116 PBR boat captain in Vietnam.
 ---
 
-The biography of this group begins with two names written inside a tigerstripe camouflage uniform. One belongs to Lt.j.g. Harry Weber, a PBR boat captain who served with River Section 522 of Task Force 116 in the Mekong Delta. The other belongs to Green Beret 1st Lt. Claude Huggins, who wore it before him.
+## Grouping Details
 
-Weber reported to Vietnam in August 1966. During his tour, he became friends with Huggins, then stationed in Tan Chau. Years later, he recalled: "He and I were good friends and I traded a bottle of Jack Daniels for the uniform."
+### Tigerstripe Uniform
+* Vietnam War-era tigerstripe camouflage jacket and trousers
+* Originally worn by 1st Lt. Claude Huggins, U.S. Army Special Forces
+* Acquired by Lt. j.g. Harry Weber, U.S. Navy, in trade for a bottle of Jack Daniel's
+* Both veterans' surnames handwritten inside jacket and trousers
+* Weber's name tape, Navy tape, and lieutenant's bars chain-stitched by a Vietnamese tailor
+* Original tailor's ink registration marks visible beneath embroidery
+* Weber's issued web belt remains threaded through trouser loops
 
-The transfer is still visible today. Huggins wrote his surname inside both the jacket and trousers in blue-green ink. Rather than remove or cover the markings, Weber added his own name in blue ballpoint pen — two owners, one trade, both recorded inside the same uniform.
+### Viet Cong Flag
+* Captured during a riverine engagement near the mouth of the Bassac River, according to Weber
+* Recovered from a sampan carrying Viet Cong personnel preparing an ambush
+* Lightweight rayon construction with exposed seam allowances
+* Significant sun fading to original red and blue fabric
 
-He later had a Vietnamese tailor chain-stitch his name tape, Navy tape, and lieutenant's bars onto the jacket. Faint ink registration lines are still visible beneath the embroidery — marks the tailor used to position the insignia before stitching and never bothered to erase.
+### Buck Knife
+* Gift from Weber's mother before his PBR training
+* Carried throughout his Vietnam deployment
+* Used primarily as a utility knife
+* Task Force 116 patch added after the war for display
 
-His issued web belt is still threaded through the trouser loops, preserving the uniform much as he left it.
+### Artwork
+* Numbered print depicting Claude Huggins with his dog, Stryker, and Major Davies
+* Titled "Claude Huggins Introduces Major Davies to His Dog, Stryker"
+* Based on Weber's wartime sketches
 
-Weber also kept a numbered print of Huggins in tigerstripe camouflage, drawn from a sketchbook he kept during his own Vietnam service; after the war, many of his sketches were exhibited and reproduced as numbered prints.
+### Task Force 116 Plaque
+* Commemorative plaque marking Weber's service with Task Force 116
 
-Titled "Claude Huggins Introduces Major Davies to His Dog, Stryker," the drawing shows Huggins with the dog Weber remembered as "extraordinarily big, well trained and loyal to Claude." On its own, the print is artwork. Beside the uniform, it becomes documentation — the illustration hands the uniform back to the man who wore it first.
-
-The group also includes a Viet Cong flag, recovered after a brief firefight near the mouth of the Bassac River. Weber recalled that it was among several flags captured aboard a sampan after his patrol intercepted a Viet Cong force preparing an ambush. The flag has sun-bleached, the original red and blue dye faded into pale streaks. Lightweight rayon, exposed seam allowances, and utilitarian stitching all point to an object made for function, not display.
-
-Unlike the uniform and the flag, Weber's Buck knife entered the group before he ever reached Vietnam. As he remembered it: "The Buck knife was a present from my mother...she gave it to me the night before I left for training in PBRs."
-
-Weber carried it throughout his tour, using it less as a weapon than a tool — "better for punching holes in cans and chopping stuff up than anything else."
-
-After the war, Weber explained, "Patch was glued on afterwards for display" — turning a working knife into a personal keepsake of his riverine service.
-
-Completing the group is a Task Force 116 plaque marking Weber's service with the Navy's riverine force. Unlike the uniform, flag, and knife, it was created to commemorate rather than to serve. Together, the objects preserve both the official and personal dimensions of a Vietnam War deployment.
-
-More than fifty years after trading a bottle of Jack Daniel's for the uniform, Weber entrusted this group to its next custodian. Its biography continues, carried forward by the objects themselves.
+### Provenance
+* Group acquired directly from Lt. j.g. Harry Weber, PBR boat captain, River Section 522, Task Force 116
+* Weber served in Vietnam beginning August 1966
+* Original ownership and history of the group established through direct acquisition from Weber and his firsthand account
