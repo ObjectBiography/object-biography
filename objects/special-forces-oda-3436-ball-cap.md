@@ -19,39 +19,19 @@ tags:
   - Headgear
   - GWOT
   - Special Forces
-description: A team ball cap for Special Forces ODA 3436, embroidered with a brass knuckle motif and the phrase "WE DEAL IN LEAD," purchased from a Fayetteville seller who could describe the veteran's 24-year Army career but not his name.
+description: A worn ODA 3436 team ball cap, 3rd Special Forces Group, embroidered with brass knuckles and "WE DEAL IN LEAD," acquired in Fayetteville, NC.
 ---
 
-> "I do not know much about him other than he was in the Army for 24 years with 22 of the years being in the Special Operations community."
->
-> — The seller
+## Object Details
 
-**Military history often begins with a name.**
+### ODA 3436 Ball Cap
+* Commercially produced khaki Flexfit baseball cap
+* ODA 3436 embroidered on front with brass knuckles motif
+* 3rd Special Forces Group (Airborne), 4th Battalion, C Company, 6th Operational Detachment Alpha
+* "WE DEAL IN LEAD" embroidered on back, a phrase associated with *The Magnificent Seven* (1960)
+* Tightly rolled bill, perspiration staining, and embedded dirt consistent with extended wear
 
-**This story begins with the absence of one.**
-
-The cap was purchased from a seller in Fayetteville, North Carolina, in May 2026 — fertile ground for Special Forces memorabilia. Asked what he knew about the original owner, the seller's answer was surprisingly specific: twenty-four years in uniform, twenty-two of them in Special Operations.
-
-Asked whether he knew the veteran's name, however, the seller's answer was equally brief.
-
-> "No sorry."
-
-Whether that omission protected a confidence or simply marked the limits of what he was willing to share remains unknown. Like many objects, this cap arrives with as many silences as stories.
-
-The cap itself is unassuming.
-
-It started life as a commercially available khaki Flexfit baseball cap, likely selected from the sample wall of a local embroidery shop. In another context, it might have spent its life promoting a local business or youth baseball league. Instead, it became a team cap for ODA 3436.
-
-Embroidered across the front is ODA 3436.
-
-To most people, the designation means very little. To someone familiar with Army Special Forces, it decodes precisely. A three-digit system used since 1972 gave way to a standardized four-digit format on January 1, 2007, placing this cap within that chapter of the Global War on Terror. Under that system, 3436 breaks down as 3rd Special Forces Group, 4th Battalion, C Company, and the sixth — the last — team in that company.
-
-Framing the team designation is a pair of brass knuckles, embroidered in a clean, balanced graphic style. Variations of the motif appear on other ODA patches and morale items from the Global War on Terror — part of a shared visual vocabulary, alongside the Punisher skull, the Misfits' Crimson Ghost, and Spartan helmets, that transcended any single team. Their repeated use suggests they were understood long before they needed to be explained.
-
-Across the back is another message.
-
-WE DEAL IN LEAD.
-
-The phrase is most closely associated with *The Magnificent Seven* (1960), where Steve McQueen's character, Vin Tanner, remarks, "We deal in lead, friend." Whether ODA 3436 intended it as a direct homage is impossible to know, but the reference fits the same borrowed, team-made visual language as the brass knuckles on the front.
-
-The bill has been tightly rolled, permanently reshaping the cap through repeated wear. Inside the sweatband, perspiration has darkened the fabric and fine dirt remains embedded in its fibers. Structurally, the cap is otherwise in excellent condition. These are ordinary signs of use, but they are also among the few surviving traces of the person who wore it.
+### Provenance
+* Acquired from a seller in Fayetteville, North Carolina, May 2026
+* Seller acquired the cap from a veteran with 24 years of Army service, including 22 years in Special Operations
+* Original owner's identity and service history unconfirmed
