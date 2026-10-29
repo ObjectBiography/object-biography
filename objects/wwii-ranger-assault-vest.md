@@ -27,25 +27,21 @@ category:
 tags:
   - WWII
   - Ranger
-description: An apparently unissued 1944 U.S. Army assault vest made by the Harian Stitching Company, produced for the Normandy invasion.
+description: An unissued 1944 U.S. Army assault vest by Harian Stitching Company, the pattern developed for the Normandy invasion and issued to select assault units.
 ---
 
-## Description
+## Object Details
 
-A U.S. Army assault vest, size Medium, manufactured by the Harian Stitching Company and dated 1944. It is heavy field-green (OD No. 3, "khaki") cotton canvas with OD No. 7 trim and waist banding, and tracer yarn woven through several panels (a mill practice common through the mid-20th century before fading out of use). "MEDIUM" is faintly stenciled inside the body, and "HARIAN 1944" is stamped boldly beneath the rear pack flap. The only wear is light, unevenly lacquered oxidation on the brass waist grommets; otherwise the vest presents as unissued.
+### 1944 U.S. Army Assault Vest
+* Size Medium, manufactured by Harian Stitching Company, 1944
+* OD No. 3 cotton canvas with OD No. 7 trim and waist banding
+* Tracer yarn woven through several canvas panels
+* "MEDIUM" stenciled inside body; "HARIAN 1944" stamped beneath rear pack flap
+* Developed for the Normandy invasion, with issuance documented to select assault units, including the 1st, 4th, and 29th Infantry Divisions and 2nd Ranger Battalion
+* Designed to carry ammunition, grenades, demolition charges, and rations
+* Appears unissued, with minor oxidation on brass waist grommets and otherwise excellent condition
 
-## Origin and Manufacture
-
-This vest belongs to a small family of assault vests rushed into production in early 1944 for the Normandy invasion, developed after the Army evaluated British Commando-style vests in late 1943. Contractors included J.A. Shoe, Tweedie, and Harian, working in OD No. 3 and OD No. 7 canvas. Estimates put total production at around 14,000 but I was not able to confirm this number.
-
-## Use and Service Record
-
-The vest let an assault soldier carry ammunition, grenades, demolition charges, and rations directly on the body, and was issued in May 1944 to select units slated for the Normandy first waves: the 1st, 4th, and 29th Infantry Divisions and the 2nd Ranger Battalion. It proved hot, heavy, and cumbersome in the field, and most were discarded within weeks of the landings, which is why originals are now rare and highly prized D-Day collectibles.
-
-## Condition and Provenance
-
-This example shows none of that hard use, its unissued condition, faint stencil, and light grommet oxidation suggest a reserve or depot piece that never saw combat. Its known chain of custody starts with a Colorado shoe cobbler who advertised buying military relics; a customer sold it to him, it later passed to a friend of mine, and I purchased it from that friend around 2005. Earlier history is unknown.
-
-## Significance
-
-As a dated, contractor-marked, apparently unissued example, this vest captures both the rushed effort to equip troops for Normandy and how little of that equipment survived the invasion itself.
+### Provenance
+* Acquired around 2005 from a fellow collector
+* Previously owned by a Colorado cobbler who purchased it from a customer
+* Earlier ownership and service history unknown
