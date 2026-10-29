@@ -101,7 +101,7 @@ Piece by piece, the anonymous laundry identification became a documented paratro
 
 H 0608 had a name now — a technician fourth grade who jumped with the 507th and 504th Parachute Infantry Regiments, fought from Sicily to Central Europe, and came home with a Bronze Star.
 
-## Collection Details
+## Grouping Details
 
 ### Object
 

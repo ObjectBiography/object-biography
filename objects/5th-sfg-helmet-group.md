@@ -54,7 +54,7 @@ Alongside it traveled a Crye Gen 2 field shirt, worn on the same deployments, it
 
 With the group came a fourth object, one that didn't start as gear: an American flag, flown in the nose cone of an MQ-1 Predator during a kinetic operation he took part in, later presented to him by the 160th Special Operations Aviation Regiment (Airborne) in recognition of his service.
 
-## Collection Details
+## Grouping Details
 
 ### Helmet
 

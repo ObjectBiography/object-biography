@@ -51,21 +51,7 @@ tags:
 description: A combat top tailor-made in Afghanistan from an ODA 7113 t-shirt and woodland BDU sleeves, with modified BDU trousers and UCP headgear.
 ---
 
-The combat top at the center of this group is a union of two garments: an ODA 7113 unit t-shirt, printed with "Lucky 13" and a skull gripping a V-42 knife with crossed raft paddles on the back, and the sleeves of a woodland BDU top, grafted on by a tailor during an Afghanistan deployment.
-
-Each sleeve carries a hook-and-loop patch: one a JTAC patch, the other a CJSOTF-A (Afghanistan) patch.
-
-The trousers are modified BDUs, with Crye-inspired, tailormade knee reinforcement pockets and ankle pockets with hook and loop flap closure.
-
-A separate tan "Lucky 13" ODA t-shirt came with the group as well.
-
-Two salty UCP pattern pieces of headgear from a prior deployment were included: a patrol cap with NCO rank, cat's eyes, name tape, and a sweated-out panel marker resourcefully sewn inside the crown to double as a pocket. The other, a similarly configured boonie, with evidence of a panel marker that has since been removed.
-
-A woodland helmet cover associated with the 509th rounds it out, worn during an earlier airborne enlistment before the soldier attempted Special Forces selection and became an 18-E, a Special Forces communications sergeant.
-
-The group surfaced near Eglin Air Force Base, home to 7th Special Forces Group. The veteran confirmed directly that the pieces were his — he'd sold them years earlier to a surplus shop, without expecting them to resurface intact as a group, and was helpful in providing context.
-
-## Collection Details
+## Grouping Details
 
 ### Combat Top
 * Tailor-made in Afghanistan
