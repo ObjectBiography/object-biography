@@ -95,9 +95,9 @@ description: A tigerstripe uniform, captured Viet Cong flag, and Buck knife acqu
 * Task Force 116 patch added after the war for display
 
 ### Artwork
-* Numbered print depicting Claude Huggins with his dog, Stryker
+* Numbered print of an original wartime sketch by Harry Weber
+* Depicts Claude Huggins introducing Major Davies to his dog, Stryker
 * Titled "Claude Huggins Introduces Major Davies to His Dog, Stryker"
-* Based on Weber's wartime sketches
 
 ### Task Force 116 Plaque
 * Commemorative plaque marking Weber's service with Task Force 116
