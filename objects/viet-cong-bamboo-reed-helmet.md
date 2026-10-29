@@ -42,21 +42,23 @@ tags:
   - Vietnam War
   - Bring-Back
   - Camouflage
-description: A hand-woven Viet Cong bamboo reed helmet with a parachute silk cover, fishnet camouflage overlay, and an apparent bullet hole — a functional combat object now read as folk art.
+description: An early Viet Cong woven reed helmet with parachute cloth cover, hand-tied fishnet camouflage, and apparent projectile damage, brought home as a souvenir.
 ---
 
-At first glance, this helmet appears almost primitive—a woven basket covered in faded cloth and fish net. The longer one examines it, the more sophisticated it becomes.
+## Object Details
 
-This early Viet Cong woven reed camouflage helmet is generally associated with the opening years of the Vietnam War, before more standardized pressed-fiber helmets became common, and surviving examples are uncommon.
+### Viet Cong Woven Reed Helmet
+* Early Vietnam War-era woven reed camouflage helmet
+* Hand-woven split reed shell with underlying woven textile
+* Green nylon parachute cloth covering
+* Hand-tied fishnet camouflage with individually knotted and frayed parachute cloth strips
+* Improvised fabric chinstrap secured with a glove snap, convertible for carrying across the back
+* Fishnet repaired with contrasting cord
+* Brass-colored insignia with an incomplete border, consistent with small-batch manufacture
+* Apparent projectile damage penetrating the reed shell and parachute cloth
+* Original maker and wearer unknown
 
-Its foundation is a hand-woven shell of split reed. Looking between the slats, another woven textile becomes visible beneath the surface. Stretched over the shell is green nylon parachute cloth. Covering that is a hand-tied fish net, into which narrow strips of matching parachute cloth have been carefully knotted, each deliberately frayed into feather-like fibers to soften the helmet's silhouette against surrounding vegetation. A strip of shirt-weight fabric, secured with a single glove snap, does double duty as a chinstrap: fastened beneath the chin it holds the helmet in place, released it becomes long enough to carry the helmet across the wearer's back while moving through the jungle.
-
-The fish net itself bears evidence of continued service. At some point it was carefully repaired using cord of a different color rather than replaced entirely. The repair blends almost seamlessly into the original work, preserving another chapter in the helmet's life.
-
-The insignia has the character of small-batch production. Its brass-colored border is not perfectly continuous, leaving a visible gap where the trim fails to meet. Rather than being corrected or discarded, the imperfection remains—a quiet reminder that consistency was secondary to function.
-
-The helmet also preserves evidence of violence: a projectile passed through the shell. The camouflage strips conceal much of the damage from the exterior, but separating them reveals fractured reeds and shredded parachute cloth beneath. The object records the event without explaining it. Whether the helmet was being worn when it was struck, had already fallen from its wearer, or was damaged under different circumstances cannot be known.
-
-The helmet's postwar biography is easier to trace. Recovered by an American serviceman as a battlefield souvenir, it later passed through at least three documented private collections before arriving in this collection.
-
-The maker and the wearer are both unknown, but the object they left behind continues to preserve the evidence of their resourcefulness.
+### Provenance
+* Reportedly recovered as a battlefield souvenir by a U.S. serviceman during the Vietnam War
+* Subsequently passed through at least three documented private collections
+* Original recovery circumstances and service history unknown
