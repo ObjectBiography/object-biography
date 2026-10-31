@@ -121,7 +121,7 @@
     var img = currentImages[currentIndex];
     imgEl.src = img.src;
     imgEl.alt = img.alt || "";
-    caption.textContent = img.dataset.caption || img.alt || "";
+    caption.textContent = img.hasAttribute("data-caption") ? img.dataset.caption : (img.alt || "");
     counter.textContent = (currentIndex + 1) + " / " + currentImages.length;
   }
 

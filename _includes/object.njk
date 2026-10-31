@@ -8,7 +8,7 @@ ogType: article
 
   <div class="detail-images">
     {% for img in images %}
-      <img src="{{ img.src }}" alt="{{ img.alt }}" data-caption="{{ img.caption or img.alt }}" loading="lazy">
+      <img src="{{ img.src }}" alt="{{ img.alt }}" data-caption="{% if img.caption is defined %}{{ img.caption }}{% else %}{{ img.alt }}{% endif %}" loading="lazy">
     {% endfor %}
   </div>
 
