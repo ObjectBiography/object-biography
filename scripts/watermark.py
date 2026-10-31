@@ -90,7 +90,7 @@ def watermark_file(path, emblem):
     x = w - mark_size - margin
     y = h - mark_size - margin
     base.paste(mark, (x, y), mark)
-    base.save(path, quality=92)
+    base.save(path, quality=82, optimize=True, progressive=True)
     print(f"watermarked {path} ({w}x{h}, mark {mark_size}px)")
 
 
