@@ -1,5 +1,5 @@
 ---
-title: 5th Special Forces Group DCU Uniform Group — SFC Troy Hargadine
+title: 5th SFG(A) DCU Uniform Group — SFC Troy Hargadine
 subtitle: United States Army | 5th Special Forces Group (Airborne) | Persian Gulf / Afghanistan / Iraq
 thumbnail: /images/hargadine-5th-sfg-dcu-uniform-group-600x600.jpg
 images:

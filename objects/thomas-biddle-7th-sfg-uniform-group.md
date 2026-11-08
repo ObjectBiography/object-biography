@@ -1,5 +1,5 @@
 ---
-title: Thomas C. Biddle — 7th Special Forces Group Uniform Group
+title: Thomas C. Biddle — 7th SFG(A) Uniform Group
 thumbnail: /images/biddle-7th-sfg-uniform-group-600x600.jpg
 images:
   - src: /images/biddle-7th-sfg-uniform-group-1200x1200.jpg

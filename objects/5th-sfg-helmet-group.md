@@ -1,5 +1,5 @@
 ---
-title: 5th SFG High Cut Helmet Group
+title: 5th SFG(A) High Cut Helmet Group
 thumbnail: /images/5th-sfg-helmet-group-600x600.jpg
 images:
   - src: /images/5th-sfg-helmet-group-1200x1200.jpg
