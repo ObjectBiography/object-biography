@@ -16,11 +16,11 @@ images:
     caption: Interior View
     alt: Underside of the bush hat showing the less-faded camouflage of the quilted underbrim, a tan camouflage sweatband, the quilted interior of the crown, and an olive drab chin cord tied with a sliding knot.
   - src: /images/darnell-white-star-bush-hat-period-photo-wall.jpg
-    caption: Period Photograph
-    alt: Black-and-white photograph of a wall hung with a camouflage bush hat, a carbine, a sheathed knife, a small round mirror, and a small American flag on a stick.
+    caption: Darnell's Hooch in Laos
+    alt: Black-and-white photograph of a wall inside Darnell's hooch in Laos, hung with a camouflage bush hat, a carbine, a sheathed knife, a small round mirror, and a small American flag on a stick.
   - src: /images/darnell-white-star-bush-hat-period-photo-field.jpg
-    caption: Period Photograph
-    alt: Black-and-white photograph of a smiling man with a cigar standing in tall grass, wearing fatigues and a web belt with a sheathed knife, with a carbine slung over his shoulder.
+    caption: CPT Charles Darnell Later in RVN
+    alt: Black-and-white photograph of CPT Charles Darnell in the Republic of Vietnam, smiling with a cigar while standing in tall grass, wearing fatigues and a web belt with a sheathed knife, with a carbine slung over his shoulder.
 date: 2026-11-08
 category:
   - Vietnam War
