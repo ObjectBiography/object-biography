@@ -54,3 +54,7 @@ description: A CISO Beo Gam camouflage patrol cap owned by CPT Charles B. Darnel
 
 * Signed provenance letter from Jason M. Hardy.
 * Copies of Darnell's military service records.
+
+### Related Objects
+
+* [Operation White Star Bush Hat — LT Charles B. Darnell Jr.](/objects/darnell-operation-white-star-bush-hat/): a theater-made bush hat from Darnell's earlier White Star service in Laos, 1961–1962.

@@ -55,3 +55,7 @@ description: A theater-made camouflage parachute bush hat worn by LT Charles B. 
 * Copies of Darnell's military service records.
 * Stephen Sherman, *Who's Who from Hotfoot/White Star*, which identifies Darnell's rank, detachment, duty position, and dates of service.
 * Jason M. Hardy and Stephen Sherman, *CIB/CMB and VN Jump Wing Awards to Special Forces in Vietnam*, which documents Darnell's Combat Infantryman Badge.
+
+### Related Objects
+
+* [CIDG Beo Gam Camouflage Cap — Charles B. Darnell Jr.](/objects/darnell-cidg-beo-gam-camouflage-cap/): a CISO patrol cap from Darnell's later Special Forces service in South Vietnam.
