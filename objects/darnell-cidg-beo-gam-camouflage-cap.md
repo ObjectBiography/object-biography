@@ -1,5 +1,5 @@
 ---
-title: CIDG Beo Gam Camouflage Cap — Charles B. Darnell Jr.
+title: CIDG Beo Gam Camouflage Cap — CPT Charles B. Darnell Jr.
 subtitle: United States Army Special Forces | South Vietnam | 1960s
 thumbnail: /images/darnell-ciso-beo-gam-cap-600x600.jpg
 images:

@@ -58,4 +58,4 @@ description: A theater-made camouflage parachute bush hat worn by LT Charles B. 
 
 ### Related Objects
 
-* [CIDG Beo Gam Camouflage Cap — Charles B. Darnell Jr.](/objects/darnell-cidg-beo-gam-camouflage-cap/): a CISO patrol cap from Darnell's later Special Forces service in South Vietnam.
+* [CIDG Beo Gam Camouflage Cap — CPT Charles B. Darnell Jr.](/objects/darnell-cidg-beo-gam-camouflage-cap/): a CISO patrol cap from Darnell's later Special Forces service in South Vietnam.
