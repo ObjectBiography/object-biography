@@ -47,7 +47,7 @@ description: A theater-made camouflage parachute bush hat worn by LT Charles B. 
 * Awarded the Combat Infantryman Badge during his service in Laos.
 * Military author and researcher Jason M. Hardy specifically identified this bush hat as having been issued to Darnell during his White Star service.
 * Acquired directly from Charles B. Darnell Jr. by Hardy at the 50th Special Forces convention in Fayetteville, North Carolina, in spring 2002.
-* Subsequently acquired from Hardy by the present collection.
+* Acquired from Hardy by the present collection later in 2002.
 
 ### Supporting Documentation
 

@@ -48,7 +48,7 @@ description: A CISO Beo Gam camouflage patrol cap owned by CPT Charles B. Darnel
 * During his second tour in 1964, Captain Darnell commanded a Special Forces A Camp near Bon Sar Pa, South Vietnam.
 * Following an uprising at the camp and its subsequent closure, Darnell was reassigned to help establish Eagle Flight, a quick-reaction force organized to relieve besieged Special Forces A Camps. The organization subsequently evolved into II Corps Mobile Strike Force (Mike Force).
 * Acquired directly from Charles B. Darnell Jr. by military author and researcher Jason M. Hardy at the 50th Special Forces convention in Fayetteville, North Carolina, in spring 2002.
-* Subsequently acquired from Hardy by the present collection.
+* Acquired from Hardy by the present collection later in 2002.
 
 ### Supporting Documentation
 
