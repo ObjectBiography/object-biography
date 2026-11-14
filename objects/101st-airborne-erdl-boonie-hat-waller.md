@@ -53,3 +53,6 @@ description: A theater-made ERDL boonie hat with 101st Airborne insignia and WAL
 * His obituary, published in the Lincoln Journal Star, confirms service with the 101st Airborne Division during the Vietnam War.
 * Hat surfaced during the liquidation of Waller's estate following his death in April 2016.
 * Acquired by the author from another collector in 2017; the intervening chain of custody is undocumented.
+
+### Additional History
+* Anyone who served alongside Jimmy Dwayne Waller of Nebraska City, Nebraska, in the 101st Airborne Division, or who has knowledge of his unit or his time in Vietnam, is encouraged to [contact Object Biography](/contact/). Photographs, recollections, and additional context would be greatly appreciated in helping preserve his service history.

@@ -62,4 +62,4 @@ description: Three U.S. Army uniforms attributed to a 7th Special Forces Group F
 ### Additional History
 
 * The Panama Central Issue Facility marking raises questions about Biddle's service in Central America, including whether he participated in Operation Just Cause (1989) or subsequent operations in Panama. No direct connection to the operation has been established.
-* Anyone who served alongside Thomas C. Biddle or has knowledge of his assignments, deployments, or the history of these uniforms is encouraged to contact Object Biography. Photographs, recollections, and additional context would be greatly appreciated in helping preserve his service history.
+* Anyone who served alongside Thomas C. Biddle or has knowledge of his assignments, deployments, or the history of these uniforms is encouraged to [contact Object Biography](/contact/). Photographs, recollections, and additional context would be greatly appreciated in helping preserve his service history.
