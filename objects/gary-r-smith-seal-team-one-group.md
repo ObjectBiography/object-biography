@@ -80,6 +80,9 @@ images:
   - src: /images/vietnam-seal-team-1-gary-r-smith-coral-booties-1969-date.jpg
     caption: "1969 Date Inside SEAL Team 1 UDT Coral Booties"
     alt: "Interior of a Vietnam-era UDT coral bootie from a SEAL Team 1 uniform group with a faint 1969 date on the canvas lining."
+  - src: /images/vietnam-seal-team-1-gary-r-smith-headstone.jpg
+    caption: "Government Headstone, Wesley Chapel Cemetery, Jacksboro, Texas (Photo: Jack Stevens, Find a Grave)"
+    alt: "Flat granite government headstone engraved GARY ROGER SMITH, RMCM US NAVY, VIETNAM, SEP 29 1941, MAR 23 2009, BRONZE STAR MEDAL, PURPLE HEART."
 date: 2026-10-31
 category:
   - Vietnam War
