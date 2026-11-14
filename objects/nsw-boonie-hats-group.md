@@ -75,3 +75,6 @@ description: Three GWOT-era boonie hats bearing the same surname — olive drab,
 * Associated items included field uniforms and early U.S.-made Blackhawk bags, sold separately
 * One bag carried a luggage tag marked "C.F.B." and "JSOC," with Naval Special Warfare and JSOC emblems and a unique identification number
 * Original ownership, service history, and unit associations remain unconfirmed
+
+### Additional History
+* Anyone who recognizes these hats, the "BRAVO / 88" and "NSWC/JSOC" markings, or the "C.F.B." JSOC luggage tag from the same group, or who knows of a Naval Special Warfare operator whose gear surfaced at a Huntington Beach flea market, is encouraged to [contact Object Biography](/contact/). Photographs, recollections, and additional context would be greatly appreciated in helping identify their original owner and preserve his service history.
