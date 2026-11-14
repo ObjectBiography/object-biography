@@ -31,6 +31,13 @@ description: A worn ODA 3436 team ball cap, 3rd Special Forces Group, embroidere
 * "WE DEAL IN LEAD" embroidered on back, a phrase associated with *The Magnificent Seven* (1960)
 * Tightly rolled bill, perspiration staining, and embedded dirt consistent with extended wear
 
+### Unit History
+* ODA 3436 belongs to the 4th Battalion, 3rd Special Forces Group (Airborne), which was [activated at Fort Bragg on August 18, 2009](https://shadowspear.com/threads/new-special-forces-battalion-activated-at-fort-bragg.4425), as part of an expansion that added a fourth battalion to each active-duty Special Forces group
+* [Four-digit team numbers came into use in 2007](https://en.wikipedia.org/wiki/United_States_Army_Special_Forces), and the 4th Battalion did not exist before August 2009, so this cap dates to 2009 or later
+* The 4th Battalion deployed to Afghanistan within its first year, [marking its first anniversary on a fire base there in August 2010](https://shadowspear.com/threads/4th-battalion-3rd-special-forces-group-airborne-celebrates-anniversary-in-astan.6931)
+* The battalion received the [Valorous Unit Award for Southeast Afghanistan, 2010–2011](https://arsof-history.org/lineage_and_honors/3rd_special_forces_group.html)
+* No published account of ODA 3436's own deployments has been located
+
 ### Provenance
 * Acquired from a seller in Fayetteville, North Carolina, May 2026
 * Seller acquired the cap from a veteran with 24 years of Army service, including 22 years in Special Operations
