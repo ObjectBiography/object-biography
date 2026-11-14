@@ -59,7 +59,7 @@ description: A 173rd Airborne Brigade jungle jacket attributed to a Specialist F
 * Served in the U.S. Army from April 14, 1965, to March 20, 1967.
 * Deployed to Vietnam in March 1966, serving initially with Company F and later Company B, 2nd Battalion (Airborne), 503rd Infantry Regiment.
 * Awarded the Purple Heart, Combat Infantryman Badge, and Parachutist Badge, as documented in National Archives personnel records.
-* Identified by name on the 173rd Airborne Brigade's Operation Junction City jump roster for the February 22, 1967, combat parachute assault.
+* Identified by name on the 173rd Airborne Brigade's [Operation Junction City jump roster](https://web.archive.org/web/20030624223227/http://173airborne.com/manifest.htm) for the February 22, 1967, combat parachute assault near Katum, recorded in General Orders 444, March 12, 1967.
 * Acquired through eBay auction on December 21, 2008
 
 ### Supporting Documentation
