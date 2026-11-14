@@ -67,3 +67,6 @@ description: A 173rd Airborne Brigade jungle jacket attributed to a Specialist F
 * National Archives military personnel records for Jesse James Payne.
 * Record of Assignments documenting service with the 2nd Battalion (Airborne), 503rd Infantry Regiment.
 * 173rd Airborne Brigade Operation Junction City jump roster.
+
+### Additional History
+* Anyone who served alongside SP4 Jesse James Payne in Company F or Company B, 2nd Battalion (Airborne), 503rd Infantry, 173rd Airborne Brigade, or who has knowledge of his service, the Operation Junction City jump, or the history of this jacket, is encouraged to [contact Object Biography](/contact/). Photographs, recollections, and additional context would be greatly appreciated in helping preserve his service history.
