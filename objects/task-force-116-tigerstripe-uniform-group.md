@@ -1,5 +1,5 @@
 ---
-title: Vietnam Task Force 116 PBR Group
+title: Task Force 116 PBR Group — River Section 522, 1966
 thumbnail: /images/harry-weber-pbr-600x600.jpg
 images:
   - src: /images/harry-weber-pbr-1200x1200.jpg

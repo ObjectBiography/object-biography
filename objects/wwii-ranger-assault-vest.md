@@ -1,5 +1,5 @@
 ---
-title: WWII Ranger Assault Vest
+title: WWII Ranger Assault Vest — Unissued, 1944
 thumbnail: /images/wwii-ranger-assault-vest-600x600.jpg
 images:
   - src: /images/wwii-ranger-assault-vest-front-view.jpg

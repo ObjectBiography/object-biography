@@ -1,5 +1,5 @@
 ---
-title: WWII Airborne Reinforced M42 Jump Jacket
+title: WWII Airborne Reinforced M42 Jump Jacket — 504th / 507th PIR
 subtitle: The Jacket That Asked a Question
 thumbnail: /images/m42-reinforced-jump-jacket-600x600.jpg
 images:
