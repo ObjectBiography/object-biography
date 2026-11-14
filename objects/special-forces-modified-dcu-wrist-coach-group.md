@@ -58,3 +58,6 @@ description: A modified three-color DCU top with a Farsi name tape, grouped with
 * Badged uniform and wrist coach found together at a military surplus store in Fort Walton Beach, Florida
 * Association with 7th Special Forces Group suggested by the accompanying materials and acquisition location
 * Original ownership and service use unconfirmed
+
+### Additional History
+* Anyone who recognizes this uniform or wrist coach, the Farsi name tape (tentatively read as "Hall"), the "MOD 2" marking, or the football-themed brevity codes, or who knows of a 7th Special Forces Group soldier whose gear surfaced at a military surplus store in Fort Walton Beach, Florida, is encouraged to [contact Object Biography](/contact/). Photographs, recollections, and additional context would be greatly appreciated in helping identify their original owner and preserve his service history.
