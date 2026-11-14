@@ -47,6 +47,10 @@ description: Chinese-made NVA canvas boots recovered on Mutter's Ridge during Op
 * Subsequently wounded during Operation Buffalo on July 7, 1967
 * Awarded the Purple Heart
 
+### Historical Context
+* Operation Hastings, July 15 to August 3, 1966, was a Marine and South Vietnamese operation in Quang Tri Province to drive the North Vietnamese 324B Division back across the Demilitarized Zone, documented in the Marine Corps' official history, [*U.S. Marines in Vietnam: An Expanding War, 1966*, Chapter 10, "Marines Turn North, Operation Hastings"](https://www.marines.mil/News/Publications/MCPEL/Electronic-Library-Display/Article/900063/us-marines-in-vietnam-an-expanding-war-1966-pt-3/)
+* Operation Prairie followed directly on August 3, 1966, continuing the fight against the 324B Division in the same area, including along Nui Cay Tre, known to Marines as Mutter's Ridge ([Chapter 11, "The DMZ War Continues, Operation Prairie"](https://www.marines.mil/News/Publications/MCPEL/Electronic-Library-Display/Article/900064/us-marines-in-vietnam-an-expanding-war-1966-pt-4/))
+
 ### Provenance
 * Acquired directly from the Marine veteran in 2006
 * Boots retained by the veteran for approximately 40 years
