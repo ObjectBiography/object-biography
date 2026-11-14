@@ -5,5 +5,6 @@
   "defaultImage": "/images/og-card-v2.png",
   "showEssays": false,
   "buttondownUsername": "ObjectBiography",
-  "instagramUrl": "https://www.instagram.com/object.biography"
+  "instagramUrl": "https://www.instagram.com/object.biography",
+  "tagIndexMinItems": 5
 }

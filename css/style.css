@@ -445,3 +445,51 @@ main {
     grid-template-columns: 1fr;
   }
 }
+
+/* ---------- Era hubs (World War II / Cold War & Vietnam / GWOT) ---------- */
+.breadcrumb { margin-bottom: 1rem; font-size: 0.9rem; color: #666; }
+.breadcrumb span[aria-hidden] { margin: 0 0.35rem; }
+
+.era-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.25rem;
+}
+.era-links-left { justify-content: flex-start; align-items: center; margin: 0 0 1rem; }
+.era-links-left > span { font-size: 0.85rem; color: #666; margin-right: 0.25rem; }
+.era-links a {
+  font-size: 0.9rem;
+  padding: 0.45rem 1rem;
+  border: 1px solid #222;
+  border-radius: 999px;
+  color: #222;
+}
+.era-links a:hover { background: #222; color: #fff; text-decoration: none; }
+
+.era-intro { max-width: 46rem; margin-bottom: 2rem; line-height: 1.6; }
+
+.era-list { list-style: none; padding: 0; margin: 0; }
+.era-item {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 1.25rem;
+  padding: 1.25rem 0;
+  border-top: 1px solid #e3e3e0;
+}
+.era-thumb img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block; }
+.era-text h2 { font-size: 1.1rem; margin: 0 0 0.4rem; }
+.era-text h2 a { color: #222; }
+.era-text p { margin: 0; color: #444; line-height: 1.5; }
+
+.era-nav { margin-top: 2rem; padding-top: 1.25rem; border-top: 1px solid #e3e3e0; font-size: 0.9rem; }
+.era-nav span { color: #666; margin-right: 0.5rem; }
+.era-nav a { margin-right: 1rem; }
+
+.footer-eras { margin-bottom: 0.75rem; font-size: 0.9rem; }
+
+@media (max-width: 600px) {
+  .era-item { grid-template-columns: 96px 1fr; gap: 0.9rem; }
+  .era-text h2 { font-size: 1rem; }
+}

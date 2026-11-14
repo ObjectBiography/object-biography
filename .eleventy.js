@@ -7,6 +7,15 @@ function slugify(text) {
     .replace(/^-+|-+$/g, "");
 }
 
+const eras = require("./_data/eras.json");
+
+// Returns the era (from _data/eras.json) an object belongs to, based on its
+// `category` front matter, or null if none of its categories map to an era.
+function eraFor(categories) {
+  const cats = categories || [];
+  return eras.find((era) => era.matches.some((m) => cats.includes(m))) || null;
+}
+
 module.exports = function (eleventyConfig) {
   // Copy these folders straight into the built site, unchanged
   eleventyConfig.addPassthroughCopy("css");
@@ -24,6 +33,21 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("slugify", slugify);
+  eleventyConfig.addFilter("eraFor", eraFor);
+
+  // One entry per era in _data/eras.json, with the objects that belong to it
+  // (newest first). Rendered by objects/era.njk at /objects/<era-slug>/ —
+  // these are the main browse/hub pages and are linked from every page.
+  eleventyConfig.addCollection("eraPages", function (collectionApi) {
+    const objects = collectionApi.getFilteredByTag("objects").slice().reverse();
+    return eras.map((era) => ({
+      ...era,
+      items: objects.filter((o) => {
+        const e = eraFor(o.data.category);
+        return e && e.slug === era.slug;
+      }),
+    }));
+  });
 
   // Groups all objects by their `category` front matter into one entry per
   // category, each with a URL-friendly slug and the list of objects in it.
@@ -45,6 +69,24 @@ module.exports = function (eleventyConfig) {
     });
 
     return Object.values(categoryMap).sort((a, b) => a.name.localeCompare(b.name));
+  });
+
+  // Categories that are NOT eras (Airborne, Special Forces, etc.). Era
+  // categories get their own richer hub page via eraPages instead, so they're
+  // left out here to avoid two templates claiming the same URL.
+  eleventyConfig.addCollection("branchCategories", function (collectionApi) {
+    const eraNames = eras.flatMap((e) => e.matches);
+    const eraSlugs = eras.map((e) => e.slug);
+    const map = {};
+    collectionApi.getFilteredByTag("objects").forEach((item) => {
+      (item.data.category || []).forEach((cat) => {
+        const slug = slugify(cat);
+        if (eraNames.includes(cat) || eraSlugs.includes(slug)) return;
+        if (!map[slug]) map[slug] = { name: cat, slug, items: [] };
+        map[slug].items.push(item);
+      });
+    });
+    return Object.values(map).sort((a, b) => a.name.localeCompare(b.name));
   });
 
   // Groups all objects AND essays by their `tags` front matter into one

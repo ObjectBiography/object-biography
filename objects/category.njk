@@ -2,13 +2,13 @@
 layout: base.njk
 eleventyExcludeFromCollections: true
 pagination:
-  data: collections.objectCategories
+  data: collections.branchCategories
   size: 1
   alias: cat
 permalink: "/objects/{{ cat.slug }}/"
-title: "{{ cat.name }}"
 eleventyComputed:
-  description: "Objects in the {{ cat.name }} category."
+  title: "{{ cat.name | safe }} Militaria"
+  description: "{{ cat.name | safe }} militaria in the Object Biography collection, each with its documented history."
 ---
 <a class="back-link" href="/objects/">&larr; All Objects</a>
 <h1>{{ cat.name }}</h1>

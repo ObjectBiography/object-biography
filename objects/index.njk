@@ -4,6 +4,11 @@ title: Objects
 description: Browse the full gallery of objects, each with its own story.
 eleventyExcludeFromCollections: true
 ---
+<nav class="era-links era-links-left" aria-label="Browse by era">
+  <span>Browse by era:</span>
+  {% for era in collections.eraPages %}<a href="/objects/{{ era.slug }}/">{{ era.name }}</a>{% endfor %}
+</nav>
+
 {% if collections.objectFilters.length %}
 <div class="filter-bar">
   <button class="filter-btn is-active" data-filter="all">All</button>

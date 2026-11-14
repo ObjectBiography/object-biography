@@ -37,7 +37,7 @@ category:
 tags:
   - Airborne
   - 82nd Airborne
-  - World War II
+  - WWII
   - Paratrooper
   - Uniform
 description: A WWII rigger-reinforced M42 jump jacket, attributed through its laundry number and archival records to a 504th and 507th PIR paratrooper.

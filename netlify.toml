@@ -1,3 +1,15 @@
 [build]
   command = "npm run build"
   publish = "_site"
+
+# The old "Vietnam War" category page became the "Cold War & Vietnam" era hub.
+[[redirects]]
+  from = "/objects/vietnam-war/"
+  to = "/objects/cold-war-vietnam/"
+  status = 301
+
+# "World War II" tag merged into "WWII".
+[[redirects]]
+  from = "/tags/world-war-ii/"
+  to = "/tags/wwii/"
+  status = 301

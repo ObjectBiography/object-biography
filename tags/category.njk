@@ -9,6 +9,15 @@ permalink: "/tags/{{ tag.slug }}/"
 eleventyComputed:
   title: "{{ tag.name }}"
   description: "Objects and essays tagged {{ tag.name }}."
+  # Tag pages with fewer than site.tagIndexMinItems objects stay browsable
+  # but ask search engines not to index them (and are left out of the
+  # sitemap). They become indexable automatically once they reach the
+  # threshold. Change the number in _data/site.json.
+  noindex: "{% if tag.items.length < site.tagIndexMinItems %}yes{% endif %}"
+  # A tag page that duplicates an era (e.g. /tags/gwot/) tells search engines
+  # the era hub (/objects/gwot/) is the main version. See tagSlugs in
+  # _data/eras.json.
+  canonicalPath: "{% for era in eras %}{% if tag.slug in era.tagSlugs %}/objects/{{ era.slug }}/{% endif %}{% endfor %}"
 ---
 <a class="back-link" href="/tags/">&larr; All Tags</a>
 <h1>{{ tag.name }}</h1>

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "World War II",
+    "slug": "world-war-ii",
+    "matches": [
+      "World War II"
+    ],
+    "metaDescription": "WWII American airborne and Ranger militaria with documented histories, including an attributed M42 jump jacket and a 1944 Normandy-pattern assault vest.",
+    "intro": [
+      "American airborne and Ranger equipment from the Second World War. The WWII pieces in the collection center on the units that spearheaded the invasion of Europe: a rigger-reinforced M42 jump jacket traced through its laundry number to a paratrooper of the 504th and 507th Parachute Infantry Regiments, and an unissued 1944 assault vest of the pattern developed for the Normandy landings.",
+      "Each object page records what is known about the piece: its maker and markings, how it was attributed, and the archival research behind it."
+    ],
+    "tagSlugs": [
+      "wwii",
+      "world-war-ii"
+    ]
+  },
+  {
+    "name": "Cold War & Vietnam",
+    "slug": "cold-war-vietnam",
+    "matches": [
+      "Vietnam War",
+      "Cold War"
+    ],
+    "metaDescription": "Vietnam War and Cold War militaria with documented histories: Special Forces, Mike Force, SEAL Team ONE, 173rd and 101st Airborne, Raven FAC, and NVA/VC bring-backs.",
+    "intro": [
+      "Uniforms, headgear, and bring-back items from America's Cold War conflicts in Southeast Asia, from the early advisory years in Laos through the height of the Vietnam War. The collection includes Special Forces material from Operation White Star in Laos and the CIDG A camps, Mike Force tigerstripes, a 173rd Airborne jacket tied to the Operation Junction City combat jump, SEAL Team ONE and Task Force 116 riverine groups, a Raven FAC flight jacket, and NVA and Viet Cong items brought home by the men who encountered them.",
+      "Where possible, each piece is attributed to a named veteran through personnel records, unit rosters, or the veteran's own account."
+    ],
+    "tagSlugs": [
+      "vietnam-war",
+      "cold-war"
+    ]
+  },
+  {
+    "name": "GWOT",
+    "longName": "Global War on Terror",
+    "slug": "gwot",
+    "matches": [
+      "GWOT"
+    ],
+    "metaDescription": "GWOT-era Special Forces and Naval Special Warfare militaria with documented histories: modified DCUs, ODA team items, 5th and 7th SFG uniform groups, SEAL and DEVGRU pieces.",
+    "intro": [
+      "Special operations uniforms and equipment from the Global War on Terror, the post-9/11 campaigns in Afghanistan, Iraq, and beyond. The focus is U.S. Army Special Forces and Naval Special Warfare: field-modified DCUs and uniforms tailored in Afghanistan, ODA team caps, a 5th Special Forces Group helmet group, attributed uniform groups from 5th and 7th Group soldiers, and SEAL and DEVGRU items.",
+      "Attribution comes from name tapes, unit markings, provenance, and service records, and is documented on each object's page."
+    ],
+    "tagSlugs": [
+      "gwot"
+    ]
+  }
+]

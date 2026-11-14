@@ -3,7 +3,10 @@ layout: base.njk
 ogType: article
 ---
 <article class="detail">
-  <a class="back-link" href="/objects/">&larr; All Objects</a>
+  {% set era = category | eraFor %}
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/objects/">Objects</a>{% if era %} <span aria-hidden="true">&rsaquo;</span> <a href="/objects/{{ era.slug }}/">{{ era.name }}</a>{% endif %}
+  </nav>
   <h1>{{ title }}</h1>
 
   <div class="detail-images">
@@ -27,6 +30,19 @@ ogType: article
     "datePublished": "{{ page.date | isoDate }}"
   }
   </script>
+  {% if era %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Objects", "item": "{{ site.url }}/objects/"},
+      {"@type": "ListItem", "position": 2, "name": {{ era.name | dump | safe }}, "item": "{{ site.url }}/objects/{{ era.slug }}/"},
+      {"@type": "ListItem", "position": 3, "name": {{ title | dump | safe }}, "item": "{{ site.url }}{{ page.url }}"}
+    ]
+  }
+  </script>
+  {% endif %}
 
   <div class="detail-text">
     {{ content | safe }}

@@ -40,14 +40,23 @@ eleventyExcludeFromCollections: true
   </url>
   {%- endif %}
 {%- endfor %}
-{%- for cat in collections.objectCategories %}
+{%- for era in collections.eraPages %}
+  <url>
+    <loc>{{ site.url }}/objects/{{ era.slug }}/</loc>
+  </url>
+{%- endfor %}
+{%- for cat in collections.branchCategories %}
   <url>
     <loc>{{ site.url }}/objects/{{ cat.slug }}/</loc>
   </url>
 {%- endfor %}
 {%- for tag in collections.tagList %}
+  {%- set dupOfEra = false %}
+  {%- for era in eras %}{% if tag.slug in era.tagSlugs %}{% set dupOfEra = true %}{% endif %}{% endfor %}
+  {%- if tag.items.length >= site.tagIndexMinItems and not dupOfEra %}
   <url>
     <loc>{{ site.url }}/tags/{{ tag.slug }}/</loc>
   </url>
+  {%- endif %}
 {%- endfor %}
 </urlset>

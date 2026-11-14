@@ -14,8 +14,8 @@
   {% endif %}
 
   <meta name="description" content="{{ description or site.description }}">
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  {% if not site.showEssays and page.url.startsWith("/essays/") %}
+  <link rel="canonical" href="{{ site.url }}{{ canonicalPath or page.url }}">
+  {% if (noindex == "yes" and not canonicalPath) or (not site.showEssays and page.url.startsWith("/essays/")) %}
   <meta name="robots" content="noindex, follow">
   {% endif %}
 
@@ -78,6 +78,9 @@
         <input type="submit" value="Subscribe">
       </form>
     </div>
+    <nav class="footer-eras" aria-label="Browse by era">
+      {% for era in collections.eraPages %}<a href="/objects/{{ era.slug }}/">{{ era.name }}</a>{% if not loop.last %} &middot; {% endif %}{% endfor %}
+    </nav>
     <p>&copy; 2026 Object Biography. All rights reserved. | <a href="/what-is-object-biography/">What is Object Biography?</a> | <a href="/contact/">Contact</a> | <a href="/looking-for/">In Search Of</a></p>
   </footer>
 
