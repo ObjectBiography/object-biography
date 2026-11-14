@@ -45,11 +45,11 @@ description: Two DCU blouses attributed to a 5th Special Forces Group medical se
 * Two three-color Desert Camouflage Uniform (DCU) blouses attributed to Sergeant First Class Jonathan Troy Hargadine (1963–2015), a U.S. Army Special Forces Medical Sergeant (18D) who served with the 5th Special Forces Group (Airborne).
 * Hargadine served approximately 20 years in the U.S. Army, beginning in 1984 and retiring in 2004. His career reportedly included service with the 101st Airborne Division before joining the 5th Special Forces Group.
 * A formal portrait of Hargadine shows the 101st Airborne Division insignia worn on the right shoulder, which under Army uniform regulations denotes service with that unit in a designated combat zone. The "PG" (Persian Gulf) on his grave marker is consistent with Gulf War service with the division, though this has not yet been confirmed by service records.
-* His military service included assignments or deployments to Germany, Korea, Kuwait, and Iraq. His military grave marker also records service associated with the Persian Gulf, Afghanistan, and Iraq.
+* His military service included assignments or deployments to Germany, Korea, Kuwait, and Iraq. His [military grave marker](https://www.findagrave.com/memorial/147932041/jonathan-troy-hargadine) also records service associated with the Persian Gulf, Afghanistan, and Iraq, along with the Meritorious Service Medal, Joint Service Commendation Medal, and Army Achievement Medal.
 * Hargadine's service with the 5th Special Forces Group overlapped the opening campaigns of Operation Enduring Freedom in Afghanistan (2001) and Operation Iraqi Freedom (2003). His specific operational assignments and deployment dates remain unconfirmed.
 * One DCU blouse retains its Special Forces shoulder sleeve insignia (SSI), while the other exhibits evidence of its removal, potentially consistent with a low-visibility operational configuration.
 * Both blouses bear the laundry identification H9646, consistent with their attribution to Hargadine.
-* Hargadine died June 14, 2015, in Clarksville, Tennessee, at age 52.
+* Hargadine died June 14, 2015, in Clarksville, Tennessee, at age 52, and is buried at Kentucky Veterans Cemetery West in Hopkinsville, Kentucky.
 
 ### Provenance
 
