@@ -1,5 +1,5 @@
 ---
-title: 1st Mobile Strike Force Tigerstripe Shirt
+title: 1st Mobile Strike Force Tigerstripe Shirt — 1969–70
 subtitle: Vietnam War, 1969–1970
 thumbnail: /images/ulricson-mike-force-tigerstripe-600x600.jpg
 images:
@@ -52,7 +52,7 @@ tags:
   - Mike Force
   - Airborne
   - Camouflage
-description: A tigerstripe shirt with ULRICSON and MIKE FORCE tapes, identified by 5th Special Forces veteran Bruce Ulricson, with his own 2009 written account.
+description: A tigerstripe shirt with ULRICSON and MIKE FORCE tapes, identified by the 5th Special Forces veteran who wore it, with his own 2009 written account.
 ---
 
 ## Object Details

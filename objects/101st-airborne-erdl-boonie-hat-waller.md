@@ -1,5 +1,5 @@
 ---
-title: 101st Airborne Division — Theater-Made ERDL Boonie Hat
+title: 101st Airborne Theater-Made ERDL Boonie Hat — Vietnam, 1967–70
 subtitle: Vietnam War, circa 1968–1970
 thumbnail: /images/101st-erdl-boonie-waller-600x600.jpg
 images:
@@ -36,7 +36,7 @@ tags:
   - Airborne
   - Headgear
   - Camouflage
-description: A Vietnamese theater-made ERDL boonie hat with 101st Airborne insignia and WALLER and NEBRASKA embroidered on the brim, attributed to Jimmy Dwayne Waller.
+description: A theater-made ERDL boonie hat with 101st Airborne insignia and WALLER and NEBRASKA embroidered on the brim, attributed to the soldier who wore it.
 ---
 
 ## Object Details

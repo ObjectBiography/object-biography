@@ -68,7 +68,7 @@ tags:
   - Riverine
   - Vietnam War
   - Camouflage
-description: A tigerstripe uniform, captured Viet Cong flag, and Buck knife acquired directly from Harry Weber, a Task Force 116 PBR boat captain in Vietnam.
+description: A tigerstripe uniform, captured Viet Cong flag, and Buck knife acquired directly from a Task Force 116 PBR boat captain who served in Vietnam.
 ---
 
 ## Grouping Details

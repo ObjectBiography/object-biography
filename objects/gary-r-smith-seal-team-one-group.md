@@ -1,5 +1,5 @@
 ---
-title: Gary R. Smith — SEAL Team ONE Uniform Group
+title: SEAL Team ONE Uniform Group — Vietnam, 1968–71
 thumbnail: /images/vietnam-seal-team-1-gary-r-smith-group-600x600.jpg
 images:
   - src: /images/vietnam-seal-team-1-gary-r-smith-group-1200x1200.jpg
@@ -91,7 +91,7 @@ tags:
   - UDT
   - Camouflage
   - Headgear
-description: Uniforms of SEAL Team ONE Master Chief Gary R. Smith, author of Diary of a Navy SEAL, attributed through his Navy personnel records.
+description: Uniforms of a SEAL Team ONE Master Chief and published author, attributed through his Navy personnel records.
 ---
 
 ## Grouping Details

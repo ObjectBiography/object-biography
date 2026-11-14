@@ -1,5 +1,5 @@
 ---
-title: Thomas C. Biddle — 7th SFG(A) Uniform Group
+title: 7th SFG(A) Uniform Group — Combat Diver, First Sergeant
 thumbnail: /images/biddle-7th-sfg-uniform-group-600x600.jpg
 images:
   - src: /images/biddle-7th-sfg-uniform-group-1200x1200.jpg
@@ -36,7 +36,7 @@ tags:
   - Uniform
   - Camouflage
   - Airborne
-description: Three U.S. Army uniforms attributed to 1SG Thomas Coay Biddle, 7th Special Forces Group, including a woodland BDU stamped Property of U.S. CIF Panama.
+description: Three U.S. Army uniforms attributed to a 7th Special Forces Group First Sergeant, including a woodland BDU stamped Property of U.S. CIF Panama.
 ---
 
 ## Group Details
@@ -52,6 +52,12 @@ description: Three U.S. Army uniforms attributed to 1SG Thomas Coay Biddle, 7th 
 
 * Acquired by a Florida-based reseller, reportedly directly from Biddle's estate following his death in 2016.
 * Ownership attribution is supported by the name markings on the uniforms, the seller's account of their estate origin, personalized materials kept by the seller, and independently located biographical records.
+
+### Published Accounts
+
+* A July 2016 memorial post on the [ScubaBoard diving forum](https://www.scubaboard.com/community/threads/military-man-diving-accident.531031/), citing a Special Forces Association publication, describes him as a retired Master Sergeant and a 25-year member of U.S. Army Special Forces.
+* The same account identifies him as a graduate of the Special Forces Combat Diver program, a dive supervisor and dive medicine technician, a HALO (military freefall) jumper, and a master parachutist.
+* It reports that the fatal diving accident occurred in Panama City.
 
 ### Additional History
 

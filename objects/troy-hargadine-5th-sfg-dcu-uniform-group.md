@@ -1,5 +1,5 @@
 ---
-title: 5th SFG(A) DCU Uniform Group — SFC Troy Hargadine
+title: 5th SFG(A) DCU Uniform Group — 18D Medical Sergeant
 subtitle: United States Army | 5th Special Forces Group (Airborne) | Persian Gulf / Afghanistan / Iraq
 thumbnail: /images/hargadine-5th-sfg-dcu-uniform-group-600x600.jpg
 images:
@@ -37,7 +37,7 @@ tags:
   - Uniform
   - Camouflage
   - Airborne
-description: Two DCU blouses attributed to SFC Jonathan Troy Hargadine, a 5th Special Forces Group medical sergeant (18D) who served in Afghanistan and Iraq.
+description: Two DCU blouses attributed to a 5th Special Forces Group medical sergeant (18D) who served in Afghanistan and Iraq.
 ---
 
 ## Group Details

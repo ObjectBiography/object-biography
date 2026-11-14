@@ -1,5 +1,5 @@
 ---
-title: Modified Special Forces DCU Top & Wrist Coach Group
+title: 7th SFG(A) Modified Special Forces DCU Top & Wrist Coach Group
 thumbnail: /images/special-forces-modified-dcu-600x600.jpg
 images:
   - src: /images/special-forces-modified-dcu-1200x1200.jpg

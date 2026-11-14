@@ -1,5 +1,5 @@
 ---
-title: 5th SFG(A) High Cut Helmet Group
+title: 5th SFG(A) High Cut Helmet Group — 18C / 18Z Master Sergeant
 thumbnail: /images/5th-sfg-helmet-group-600x600.jpg
 images:
   - src: /images/5th-sfg-helmet-group-1200x1200.jpg
@@ -74,6 +74,6 @@ description: A high-cut ACH helmet, MultiCam field shirt, boots, and Predator-fl
 
 ### Provenance
 * Acquired directly from a retired U.S. Army Master Sergeant with 23 years of service, primarily with 5th Special Forces Group (Airborne)
-* Veteran served in Afghanistan, Iraq, and Syria
+* Veteran served in Afghanistan, Iraq, and Syria as both a Special Forces Engineer Sergeant (18C) and Special Forces Operations Sergeant (18Z)
 * Wounded in action and awarded the Purple Heart
 * Original ownership and service use confirmed through direct correspondence with the veteran

@@ -1,5 +1,5 @@
 ---
-title: "Operation Junction City: SP4 Jesse Payne's 173rd Airborne Jungle Jacket"
+title: 173rd Airborne Jungle Jacket — Operation Junction City Combat Jump
 subtitle: Vietnam War | 1966–1967
 thumbnail: /images/payne-173rd-jungle-jacket-600x600.jpg
 images:
@@ -38,7 +38,7 @@ tags:
   - Vietnam War
   - Airborne
   - Uniform
-description: A 173rd Airborne Brigade jungle jacket attributed to SP4 Jesse James Payne, named on the Operation Junction City combat jump roster of February 22, 1967.
+description: A 173rd Airborne Brigade jungle jacket attributed to a Specialist Four named on the Operation Junction City combat jump roster of February 22, 1967.
 ---
 
 ## Object Details

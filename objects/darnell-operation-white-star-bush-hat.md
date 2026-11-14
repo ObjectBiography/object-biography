@@ -1,5 +1,5 @@
 ---
-title: Operation White Star Bush Hat — LT Charles B. Darnell Jr.
+title: Operation White Star Bush Hat — Detachment FA-7A, Laos, 1961
 subtitle: United States Army Special Forces | Laos | 1961–1962
 thumbnail: /images/darnell-white-star-bush-hat-600x600.jpg
 images:
@@ -30,7 +30,7 @@ tags:
   - Laos
   - Headgear
   - Camouflage
-description: A theater-made camouflage parachute bush hat worn by LT Charles B. Darnell Jr. with Detachment FA-7A at Muang Sing, Laos, during Operation White Star.
+description: A theater-made camouflage parachute bush hat worn by a Special Forces lieutenant with Detachment FA-7A at Muang Sing, Laos, during Operation White Star.
 ---
 
 ## Object Details

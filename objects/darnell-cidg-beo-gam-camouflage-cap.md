@@ -1,5 +1,5 @@
 ---
-title: CIDG Beo Gam Camouflage Cap — CPT Charles B. Darnell Jr.
+title: CISO CIDG Camouflage Cap — Camp A-311A Bon Sar Pa
 subtitle: United States Army Special Forces | South Vietnam | 1960s
 thumbnail: /images/darnell-ciso-beo-gam-cap-600x600.jpg
 images:
@@ -34,7 +34,7 @@ tags:
   - Mike Force
   - Headgear
   - Camouflage
-description: A CISO Beo Gam camouflage patrol cap owned by CPT Charles B. Darnell Jr., Special Forces A Camp commander near Bon Sar Pa, South Vietnam, in 1964.
+description: A CISO Beo Gam camouflage patrol cap owned by the Special Forces captain commanding the A Camp near Bon Sar Pa, South Vietnam, in 1964.
 ---
 
 ## Object Details
@@ -45,7 +45,7 @@ description: A CISO Beo Gam camouflage patrol cap owned by CPT Charles B. Darnel
 ### Provenance
 
 * Personally owned by Captain Charles B. "Chuck" Darnell Jr., a U.S. Army Special Forces officer who served multiple tours in Southeast Asia.
-* During his second tour in 1964, Captain Darnell commanded a Special Forces A Camp near Bon Sar Pa, South Vietnam.
+* During his second tour in 1964, Captain Darnell commanded Special Forces A Camp A-311A at Bon Sar Pa, South Vietnam.
 * Following an uprising at the camp and its subsequent closure, Darnell was reassigned to help establish Eagle Flight, a quick-reaction force organized to relieve besieged Special Forces A Camps. The organization subsequently evolved into II Corps Mobile Strike Force (Mike Force).
 * Acquired directly from Charles B. Darnell Jr. by military author and researcher Jason M. Hardy at the 50th Special Forces convention in Fayetteville, North Carolina, in spring 2002.
 * Acquired from Hardy by the present collection later in 2002.

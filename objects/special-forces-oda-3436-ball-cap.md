@@ -1,5 +1,5 @@
 ---
-title: Special Forces ODA 3436 Ball Cap
+title: 3rd SFG(A) Ball Cap — ODA 3436
 thumbnail: /images/oda-3436-cap-600.jpg
 images:
   - src: /images/oda-3436-cap-1200.jpg

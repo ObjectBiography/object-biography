@@ -1,5 +1,5 @@
 ---
-title: ODA 7113 Afghanistan-Tailored Uniform Group
+title: 7th SFG(A) Afghanistan-Tailored Uniform Group — ODA 7113
 thumbnail: /images/sf-oda-7113-group-600x600.jpg
 images:
   - src: /images/sf-oda-7113-group-1200x1200.jpg

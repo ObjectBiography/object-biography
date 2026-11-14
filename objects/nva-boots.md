@@ -1,5 +1,5 @@
 ---
-title: NVA Jungle Boots — 324B Division, Quang Tri 1966
+title: NVA Jungle Boots — 324B Division, Quang Tri, 1966
 thumbnail: /images/vietnam-nva-boots-600x600.jpg
 images:
   - src: /images/vietnam-nva-boots-1200x1200.jpg

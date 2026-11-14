@@ -1,5 +1,5 @@
 ---
-title: Raven FAC Flight Jacket — Jim "Butch" Hix, Laos
+title: Raven FAC Flight Jacket — Laos, 1970
 thumbnail: /images/raven-fac-flight-jacket-jim-hix-600x600.jpg
 images:
   - src: /images/raven-fac-flight-jacket-jim-hix-full-front.jpg
@@ -34,7 +34,7 @@ tags:
   - Vietnam War
   - Laos
   - Uniform
-description: A 1970 Alpha Industries L-2B flight jacket with a theater-made Raven FAC patch, attributed to Raven Forward Air Controller James "Butch" Hix in Laos.
+description: A 1970 Alpha Industries L-2B flight jacket with a theater-made Raven FAC patch, attributed to a Raven Forward Air Controller who flew in Laos.
 ---
 
 ## Object Details

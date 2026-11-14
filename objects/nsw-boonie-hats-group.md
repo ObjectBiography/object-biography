@@ -1,5 +1,5 @@
 ---
-title: GWOT NSW / SEAL Boonies
+title: NSW / SEAL Boonie Hat Group — JSOC-Marked
 thumbnail: /images/nsw-boonie-hats-group-600x600.jpg
 images:
   - src: /images/nsw-boonie-hats-group-1200x1200.jpg
