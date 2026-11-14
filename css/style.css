@@ -493,3 +493,11 @@ main {
   .era-item { grid-template-columns: 96px 1fr; gap: 0.9rem; }
   .era-text h2 { font-size: 1rem; }
 }
+
+/* Source links inside object write-ups: visible, not blended into body text */
+.detail-text a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.detail-text a:hover { text-decoration-thickness: 2px; }
