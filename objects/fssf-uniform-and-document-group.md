@@ -81,6 +81,8 @@ description: A First Special Service Force uniform, photographs, diary and paper
 - **April 15, 1944:** The diary records, "Ozzie got hit this morning." The entry appears amid descriptions of combat activity near Anzio. The precise circumstances of the incident are not established.
 - **May 18, 1944:** The same diarist records, "Ozzie went to hospital with his back. Will be gone 6 weeks and maybe re-classified. All by myself now."
 - **July 20, 1944:** Special Orders No. 168, issued by Headquarters, 3rd General Hospital, identify Osmera as a Technician Fifth Grade assigned to the 1st Regiment, FSSF. The orders document his relief from attachment to the Airborne Training Center and assignment to the Detachment of Patients, 37th General Hospital, for temporary duty with the Motor Transport Section.
+- Osmera's surviving wartime diaries and personal documentation largely end with the Anzio campaign. Following his wounds and subsequent hospitalization in May 1944, he appears not to have returned to active combat duty with the First Special Service Force, missing its later operations in Southern France.
+- His surviving four-pocket service blouse retains corporal chevrons and an EAME Campaign Medal ribbon with two bronze service stars. However, Department of the Army correspondence dated June 26, 1953, confirms his entitlement to three bronze service stars. These discrepancies suggest that the uniform was not updated to reflect his later designation as Technician Fifth Grade or his complete campaign entitlements.
 - Osmera subsequently returned to the United States, where surviving records document his presence at the Army Air Forces Convalescent Hospital at Camp Carson, Colorado, in March 1945.
 
 ### Personal Effects and Documentation
