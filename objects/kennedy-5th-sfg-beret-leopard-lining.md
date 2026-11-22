@@ -4,11 +4,11 @@ subtitle: United States Army Special Forces | Vietnam | 1968–1969
 thumbnail: /images/kennedy-5th-sfg-beret-600x600.jpg
 images:
   - src: /images/kennedy-5th-sfg-beret-1200x1200.jpg
-    caption: Special Forces Green Beret with 5th SFG(A) Flash and Captain's Rank Insignia
-    alt: Shaved green wool Special Forces beret on a linen display form, worn with a fully machine-embroidered 5th Special Forces Group flash — a black shield edged in gold with a diagonal yellow band and red stripes — and silver captain's bars pinned to the flash.
-  - src: /images/kennedy-5th-sfg-beret-interior.jpg
     caption: Interior View with Leopard-Print Lining and Name Tape
     alt: Interior of the green beret showing a leopard-print cotton lining in gold, brown, and black, a black leather sweatband binding, two white metal ventilation eyelets, and a cloth name tape marked with Kennedy's name.
+  - src: /images/kennedy-5th-sfg-beret-on-form.jpg
+    caption: Special Forces Green Beret with 5th SFG(A) Flash and Captain's Rank Insignia
+    alt: Shaved green wool Special Forces beret on a linen display form, worn with a fully machine-embroidered 5th Special Forces Group flash — a black shield edged in gold with a diagonal yellow band and red stripes — and silver captain's bars pinned to the flash.
 date: 2026-11-21
 category:
   - Vietnam War
