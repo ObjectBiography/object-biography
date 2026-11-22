@@ -7,7 +7,7 @@ images:
     caption: "Two Desert Camouflage Uniform Blouses of CW2 Joe Munoz: FOB DCU (Rear) and Garrison DCU (Front)"
     alt: Two three-color desert camouflage DCU blouses laid together, each with a MUNOZ name tape, chief warrant officer two collar rank, a full-color American flag and 101st Airborne Division combat patch on the right sleeve, and Special Forces, Ranger, and Airborne tabs over the Special Forces shoulder insignia; the front blouse also carries a U.S. ARMY tape and sewn qualification badges.
   - src: /images/munoz-7th-sfg-dcu-uniform-group-period-photo-medal-ceremony.jpg
-    caption: Munoz (Standing, Far Right) with ODA 774 and Salvadoran Personnel Following the Presidential Medal of Gold Presentation, Iraq, May 17, 2005
+    caption: Munoz (Standing, Far Right) with ODA 774 and Two Attached SOT-A Members Following the Presidential Medal of Gold Presentation, Iraq, May 17, 2005
     alt: Group photograph of soldiers in desert camouflage uniforms and green and maroon berets, standing and kneeling on gravel in front of an armored vehicle and razor-wire berm, many wearing a newly presented medal and holding rolled certificates.
   - src: /images/munoz-7th-sfg-dcu-uniform-group-period-photo-minister-of-defense.jpg
     caption: Munoz (Left), Wearing the Garrison DCU, During the Salvadoran Minister of Defense's Visit, Iraq, May 2005
