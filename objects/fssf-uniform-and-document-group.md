@@ -1,5 +1,5 @@
 ---
-title: FSSF First Special Service Force Uniform and Document Group, 1942-1944
+title: FSSF First Special Service Force Uniform and Document Group, 1942–44
 thumbnail: /images/fssf-wool-uniform-group-600x600.jpg
 images:
   - src: /images/fssf-wool-uniform-group-uniform.jpg
