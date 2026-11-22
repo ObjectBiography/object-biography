@@ -72,5 +72,5 @@ description: A 5th SFG(A) green beret with a leopard-print lining installed in N
 
 * Original eBay auction description, February 1999, written by Kennedy's wife.
 * National Personnel Records Center correspondence and military service records, October 2009.
-* Stephen Sherman, CIB/CMB and VN Jump Wing Awards to Special Forces in Vietnam, Radix Press, p. 63.
+* Stephen Sherman, [CIB/CMB and VN Jump Wing Awards to Special Forces in Vietnam](https://www.specialforcesbooks.com/CIBVNJW.htm), Radix Press, p. 63.
 * Personal correspondence with Stephen Sherman concerning Kennedy's 1968–1969 assignment.
