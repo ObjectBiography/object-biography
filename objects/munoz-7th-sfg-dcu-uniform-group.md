@@ -80,9 +80,8 @@ description: Two DCU blouses worn by a 7th Special Forces Group warrant officer 
 
 ## Provenance and Photographic Documentation
 
-* Circa 2007–2008, Munoz sold military equipment at the Bragg Boulevard Flea Market near Fort Bragg, North Carolina.
-* Both DCU blouses were acquired directly from Munoz by a military collector during this period.
-* The uniforms subsequently entered the present collection through separate transactions in 2026.
+* In 2007, a military collector purchased both DCU blouses directly from Munoz at the Bragg Boulevard Flea Market near Fort Bragg, North Carolina.
+* Both blouses later entered the present collection from that same collector, acquired in two separate transactions in 2026.
 * Direct correspondence was established with Munoz following their acquisition.
 * Munoz provided two period photographs taken in Iraq during his 2005 deployment, showing him wearing the exact fully badged DCU.
 * The photographs confirm the original arrangement of qualification badges and insignia and document the blouse being worn in theater.
