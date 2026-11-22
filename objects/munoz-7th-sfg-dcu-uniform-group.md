@@ -1,5 +1,5 @@
 ---
-title: 7th SFG(A) DCUs — CW2 Joe Munoz, ODA 774
+title: 7th SFG(A) DCUs — CW2 Joe Munoz, ODA 774, 2005
 subtitle: United States Army | 7th Special Forces Group (Airborne) | Operation Iraqi Freedom, 2005
 thumbnail: /images/munoz-7th-sfg-dcu-uniform-group-600x600.jpg
 images:
