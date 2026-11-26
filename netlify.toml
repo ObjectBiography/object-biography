@@ -13,3 +13,89 @@
   from = "/tags/world-war-ii/"
   to = "/tags/wwii/"
   status = 301
+
+# Leftovers from the old drag-and-drop deploys, when copies of the build
+# folder (_site, _site_deploy5, etc.) were uploaded inside the site.
+# Google still has some of these addresses on file. Strip the folder
+# prefix and send visitors to the real page. Specific known URLs first
+# (one hop each), then catch-alls for anything else under those folders.
+[[redirects]]
+  from = "/_site_deploy6/objects/5th-sfg-helmet-group/"
+  to = "/objects/5th-sfg-helmet-group/"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy5/what-is-object-biography/"
+  to = "/what-is-object-biography/"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy7/_site_deploy5/"
+  to = "/"
+  status = 301
+
+# Essays section is currently hidden (site.showEssays = false).
+[[redirects]]
+  from = "/_site_deploy6/essays/*"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy6/_site/essays/*"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/essays/*"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy1/*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy2/*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy3/*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy4/*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy5/*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy6/*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy7/*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy8/*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/_site_deploy9/*"
+  to = "/:splat"
+  status = 301
+
+[[redirects]]
+  from = "/_site/*"
+  to = "/:splat"
+  status = 301
