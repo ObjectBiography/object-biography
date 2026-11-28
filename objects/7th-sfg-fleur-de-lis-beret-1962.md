@@ -1,5 +1,5 @@
 ---
-title: 7th SFG(A) Beret, Canadian-Made Fleur de Lis, 1962
+title: 7th SFG(A) Beret with Satin Flash, Canadian Fleur de Lis, 1962
 subtitle: United States Army Special Forces | 1962
 thumbnail: /images/7th-sfg-fleur-de-lis-beret-600x600.jpg
 images:
