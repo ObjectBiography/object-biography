@@ -1,10 +1,10 @@
 ---
-title: "1st Pattern Special Forces Jungle Uniforms, MSG Henry T. \"Hank\" Czerniak, 1963"
+title: "1st Pattern Special Forces Jungle Uniform, MSG Henry T. \"Hank\" Czerniak, 1963"
 subtitle: United States Army Special Forces | 1963–1968
 thumbnail: /images/czerniak-special-forces-jungle-uniform-600x600.jpg
 images:
   - src: /images/czerniak-special-forces-jungle-uniform-1200x1200.jpg
-    caption: "1st Pattern Special Forces Jungle Uniforms, MSG Henry T. \"Hank\" Czerniak, 1963"
+    caption: "1st Pattern Special Forces Jungle Uniform, MSG Henry T. \"Hank\" Czerniak, 1963"
     alt: Olive green jungle jacket and matching trousers laid flat. The jacket has Special Forces shoulder insignia with an Airborne tab, master sergeant chevrons on both sleeves, a CZERNIAK name tape, a black and gold U.S. ARMY tape, and cloth Combat Infantryman Badge and parachutist wings.
   - src: /images/czerniak-special-forces-jungle-uniform-official-portrait.jpg
     caption: Official Army Photograph of SGM Henry T. Czerniak, September 1974, from His Service Records
