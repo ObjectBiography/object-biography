@@ -56,3 +56,9 @@ description: Chinese-made NVA canvas boots recovered on Mutter's Ridge during Op
 * Boots retained by the veteran for approximately 40 years
 * Recovery circumstances documented through direct correspondence with the veteran
 * Supporting documentation includes his Combat History–Expeditions–Awards Record and original Western Union casualty notification telegram
+
+### Sources
+
+* Jack Shulimson, [*U.S. Marines in Vietnam: An Expanding War, 1966*](https://www.marines.mil/News/Publications/MCPEL/Electronic-Library-Display/Article/900063/us-marines-in-vietnam-an-expanding-war-1966-pt-3/) (History and Museums Division, U.S. Marine Corps), Chapters 10 and 11.
+* Combat History–Expeditions–Awards Record of the Marine associated with the boots.
+* Western Union casualty notification telegram.

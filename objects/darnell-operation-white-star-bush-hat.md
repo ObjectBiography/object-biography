@@ -49,7 +49,7 @@ description: A theater-made camouflage parachute bush hat worn by a Special Forc
 * Acquired directly from Charles B. Darnell Jr. by Hardy at the 50th Special Forces convention in Fayetteville, North Carolina, in spring 2002.
 * Acquired from Hardy by the present collection later in 2002.
 
-### Supporting Documentation
+### Sources
 
 * Signed provenance letter from Jason M. Hardy.
 * Copies of Darnell's military service records.

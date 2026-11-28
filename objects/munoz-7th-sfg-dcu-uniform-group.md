@@ -86,3 +86,8 @@ description: Two DCU blouses worn by a 7th Special Forces Group warrant officer 
 * Munoz provided two period photographs taken in Iraq during his 2005 deployment, showing him wearing the exact fully badged DCU.
 * The photographs confirm the original arrangement of qualification badges and insignia and document the blouse being worn in theater.
 * Munoz also provided firsthand information concerning the four DCU configurations, his deployment with ODA 774, and his work with Salvadoran and Iraqi partner forces.
+
+## Sources
+
+* Two period photographs taken in Iraq in 2005, provided by Joe Munoz.
+* Correspondence with Joe Munoz, 2026.

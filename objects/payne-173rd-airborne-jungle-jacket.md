@@ -62,7 +62,7 @@ description: A 173rd Airborne Brigade jungle jacket attributed to a Specialist F
 * Identified by name on the 173rd Airborne Brigade's [Operation Junction City jump roster](https://web.archive.org/web/20030624223227/http://173airborne.com/manifest.htm) for the February 22, 1967, combat parachute assault near Katum, recorded in General Orders 444, March 12, 1967.
 * Acquired through eBay auction on December 21, 2008
 
-### Supporting Documentation
+### Sources
 
 * National Archives military personnel records for Jesse James Payne.
 * Record of Assignments documenting service with the 2nd Battalion (Airborne), 503rd Infantry Regiment.

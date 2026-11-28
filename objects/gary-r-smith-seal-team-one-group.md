@@ -177,7 +177,7 @@ description: Uniforms of a SEAL Team ONE Master Chief and published author, attr
 * Later service included Explosive Ordnance Disposal school at Indian Head, Maryland, the U.S. Army Sergeants Major Academy, Class 17 (1981), and further tours with SEAL Team ONE and UDT TWELVE.
 * Transferred to the Fleet Reserve as a Master Chief Radioman (RMCM), April 30, 1984.
 * Decorations per his service records: Purple Heart; Bronze Star (4); Navy Commendation Medal with Combat "V" (2); Combat Action Ribbon; Presidential Unit Citation (2); Navy Unit Commendation (5); Meritorious Unit Commendation (3); Vietnam Service Medal (5); RVN Cross of Gallantry (3); RVN Staff Service Medal, 2nd Class (2); National Defense Service Medal; Good Conduct Medal (4).
-* Author of *Death in the Jungle*, *Death in the Delta* and *Master Chief*, his three-volume *Diary of a Navy SEAL*, and of *DemoMen*.
+* Co-author, with Alan Maki, of *Death in the Jungle*, *Death in the Delta* and *Master Chief*, his three-volume *Diary of a Navy SEAL*, and author of *DemoMen*.
 * After retiring he served as a Deputy Sheriff in Jack County, Texas. He died March 23, 2009, and is buried at [Wesley Chapel Cemetery, Jacksboro, Texas](https://www.findagrave.com/memorial/54742144/gary-roger-smith). His government headstone reads "RMCM US NAVY, VIETNAM" and records the Bronze Star Medal and Purple Heart.
 
 ## Provenance
@@ -185,3 +185,10 @@ description: Uniforms of a SEAL Team ONE Master Chief and published author, attr
 * Acquired by the author in the late 1990s from a collector in Moran, Texas, who found the group at a local gun show.
 * Smith lived in Jack County, Texas, not far from Moran.
 * Attribution verified: the Social Security number inked inside the uniforms matches the number in his official Navy personnel records, obtained from the National Personnel Records Center in 2004.
+
+## Sources
+
+* U.S. Navy personnel records of Gary R. Smith, National Personnel Records Center, obtained by the author in 2004.
+* Gary R. Smith and Alan Maki, *Death in the Jungle*, *Death in the Delta*, and *Master Chief* (the *Diary of a Navy SEAL* series).
+* Gary R. Smith, *DemoMen*.
+* [Find a Grave Memorial 54742144](https://www.findagrave.com/memorial/54742144/gary-roger-smith).

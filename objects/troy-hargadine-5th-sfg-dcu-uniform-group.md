@@ -59,3 +59,7 @@ description: Two DCU blouses attributed to a 5th Special Forces Group medical se
 ### Additional History
 
 * Anyone who served with SFC Hargadine or has firsthand knowledge of his military career is encouraged to [contact Object Biography](/contact/). Information regarding his ODA assignments, deployments, or photographs from his service would be greatly appreciated.
+
+### Sources
+
+* [Find a Grave Memorial 147932041](https://www.findagrave.com/memorial/147932041/jonathan-troy-hargadine).

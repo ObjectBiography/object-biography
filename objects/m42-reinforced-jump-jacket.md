@@ -84,3 +84,9 @@ description: A WWII rigger-reinforced M42 jump jacket, attributed through its la
 * Identification corroborated through National Archives records, recorded honorable discharge, Social Security Death Index, and obituary
 * Army Serial Number matched the laundry identification stamped inside the jacket
 * Jacket attributed to the identified veteran; direct ownership history prior to acquisition remains undocumented
+
+### Sources
+
+* National Archives military records of the identified veteran, including his honorable discharge.
+* Social Security Death Index.
+* Obituary of the identified veteran.

@@ -42,3 +42,10 @@ description: A worn ODA 3436 team ball cap, 3rd Special Forces Group, embroidere
 * Acquired from a seller in Fayetteville, North Carolina, May 2026
 * Seller acquired the cap from a veteran with 24 years of Army service, including 22 years in Special Operations
 * Original owner's identity and service history unconfirmed
+
+### Sources
+
+* ["New Special Forces Battalion Activated at Fort Bragg,"](https://shadowspear.com/threads/new-special-forces-battalion-activated-at-fort-bragg.4425) Shadowspear, 2009.
+* ["4th Battalion, 3rd Special Forces Group (Airborne) Celebrates Anniversary in Afghanistan,"](https://shadowspear.com/threads/4th-battalion-3rd-special-forces-group-airborne-celebrates-anniversary-in-astan.6931) Shadowspear, 2010.
+* [3rd Special Forces Group (Airborne) Lineage and Honors](https://arsof-history.org/lineage_and_honors/3rd_special_forces_group.html), USASOC History Office.
+* ["United States Army Special Forces,"](https://en.wikipedia.org/wiki/United_States_Army_Special_Forces) Wikipedia.

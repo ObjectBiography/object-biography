@@ -117,3 +117,8 @@ My time in the Mike Force & with the Rhade will be forever etched in my being fo
 * Images of the shirt were sent to Bruce Ulricson, who positively identified it as his.
 * Ulricson and the author corresponded by mail in 2009, including the written questionnaire above, returned March 9, 2009.
 * The 1969 photographs and their handwritten notes were provided to the author by Ulricson.
+
+## Sources
+
+* Written questionnaire completed by Ulricson, returned March 9, 2009.
+* Ulricson's 1969 photographs and handwritten notes, provided to the author.

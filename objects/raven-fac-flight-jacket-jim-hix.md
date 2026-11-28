@@ -60,3 +60,7 @@ description: A 1970 Alpha Industries L-2B flight jacket with a theater-made Rave
 * Acquired from a vintage clothing dealer before its planned sale into the Japanese market
 * Identification supported by the "HIX" name tape, Raven insignia, and documented service history
 * Direct ownership and service use of this particular jacket remain unconfirmed
+
+### Sources
+
+* Craig W. Duehring, *The Lair of Raven* (2014), period photographs as reproduced by Special Forces Association Chapter 78.

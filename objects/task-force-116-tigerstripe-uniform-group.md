@@ -106,3 +106,7 @@ description: A tigerstripe uniform, captured Viet Cong flag, and Buck knife acqu
 * Group acquired directly from Lt. j.g. Harry Weber, PBR boat captain, River Section 522, Task Force 116
 * Weber served in Vietnam beginning August 1966
 * Original ownership and history of the group established through direct acquisition from Weber and his firsthand account
+
+### Sources
+
+* Firsthand account of Lt. j.g. Harry Weber, provided to the author at acquisition.

@@ -107,3 +107,11 @@ description: A First Special Service Force uniform, photographs, diary and paper
 - **In 2006**, the author met with Regina and acquired additional material, including loose insignia, wartime photographs, military paperwork, and personal ephemera.
 - Regina also possessed an extensive scrapbook containing photographs, handwritten captions, documents, and ephemera documenting Osmera's military service. She wished to retain the scrapbook within the family but permitted its contents to be scanned.
 - These acquisitions reunited Osmera's named uniform with a substantial collection of his original wartime photographs, documents, and personal effects.
+
+### Sources
+
+* Special Orders No. 168, Headquarters, 3rd General Hospital, July 20, 1944.
+* Osmera's original orders, certificates, and correspondence, including his September 1942 appointment signed by Colonel Robert T. Frederick.
+* Wartime diary of a fellow First Special Service Force soldier, retained among Osmera's personal effects.
+* Records of the Army Air Forces Convalescent Hospital, Camp Carson, Colorado, March 1945, retained among Osmera's papers.
+* Robert D. Burhans, *The First Special Service Force: A War History of the North Americans, 1942–1944* (1947), Osmera's annotated copy.

@@ -50,7 +50,7 @@ description: A CISO Beo Gam camouflage patrol cap owned by the Special Forces ca
 * Acquired directly from Charles B. Darnell Jr. by military author and researcher Jason M. Hardy at the 50th Special Forces convention in Fayetteville, North Carolina, in spring 2002.
 * Acquired from Hardy by the present collection later in 2002.
 
-### Supporting Documentation
+### Sources
 
 * Signed provenance letter from Jason M. Hardy.
 * Copies of Darnell's military service records.
